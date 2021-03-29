@@ -73,15 +73,11 @@ I'm Hao Liu - AKA [Herman@beliuhao][website], this is the place where I opensour
 
 ---
 
-<img align="left" alt="beliuhao's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=beliuhao&show_icons=true&hide_border=true&theme=tokyonight" />
+<img  display='block' style="margin:20px 20px 20px 0;" alt="beliuhao's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=beliuhao&show_icons=true&hide_border=true&theme=tokyonight" />
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beliuhao&layout=compact)](https://github.com/beliuhao/github-readme-stats)
-
----
-
-[![Hao Liu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=beliuhao&layout=compact)](https://github.com/beliuhao/github-readme-stats)
+<img display='block' style="margin:20px 20px 20px 0;" alt="beliuhao's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beliuhao&layout=compact" />
 
 [website]: https://beliuhao.github.io/
 [twitter]: https://twitter.com/beliuhao
