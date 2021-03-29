@@ -20,8 +20,6 @@ I'm Hao Liu - AKA [Herman@liuhao][website], this is the place where I opensource
 [<img alt="beliuhao | LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img alt="beliuhao | Instagram" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<br />
-
 ### Languages and Tools:
 
 [<img alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][github]
@@ -41,13 +39,12 @@ I'm Hao Liu - AKA [Herman@liuhao][website], this is the place where I opensource
 [<img alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
 [<img alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][github]
 
-<br />
-
 ---
 
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Hello Gatsby](https://beliuhao.github.io/2021-03-26-hello-gatsby/)
 - [First Post](https://beliuhao.github.io/2020-03-27-first-post/)
 <!-- BLOG-POST-LIST:END -->
