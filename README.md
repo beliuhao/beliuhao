@@ -58,6 +58,8 @@ I'm Hao Liu - AKA [Herman@liuhao][website], this is the place where I opensource
 
 <br />
 
+---
+
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
