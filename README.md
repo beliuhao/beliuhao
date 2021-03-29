@@ -69,11 +69,19 @@ I'm Hao Liu - AKA [Herman@beliuhao][website], this is the place where I opensour
 - [First Post](https://beliuhao.github.io/2020-03-27-first-post/)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://beliuhao.github.io/)
+➡️ [More...](https://beliuhao.github.io/)
 
 ---
 
-<img align="left" alt="beliuhao's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=beliuhao&show_icons=true&hide_border=true" />
+<img align="left" alt="beliuhao's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=beliuhao&show_icons=true&hide_border=true&theme=tokyonight" />
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beliuhao&layout=compact)](https://github.com/beliuhao/github-readme-stats)
+
+---
+
+[![Hao Liu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=beliuhao&layout=compact)](https://github.com/beliuhao/github-readme-stats)
 
 [website]: https://beliuhao.github.io/
 [twitter]: https://twitter.com/beliuhao
