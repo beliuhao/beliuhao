@@ -64,7 +64,6 @@ I'm Hao Liu - AKA [Herman@beliuhao][website], this is the place where I opensour
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Hello Gatsby](https://beliuhao.github.io/2021-03-26-hello-gatsby/)
 - [First Post](https://beliuhao.github.io/2020-03-27-first-post/)
 <!-- BLOG-POST-LIST:END -->
