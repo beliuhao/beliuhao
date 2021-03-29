@@ -56,6 +56,7 @@ I'm Hao Liu - AKA [Herman@liuhao][website]. I'm a Husband, Father, Developer, an
 ### 📕 Latest Blog Posts [@beliuhao](https://liuhao.netlify.com/)
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Hello Gatsby](https://beliuhao.github.io/2021-03-26-hello-gatsby/)
 - [First Post](https://beliuhao.github.io/2020-03-27-first-post/)
 <!-- BLOG-POST-LIST:END -->
@@ -63,6 +64,16 @@ I'm Hao Liu - AKA [Herman@liuhao][website]. I'm a Husband, Father, Developer, an
 ---
 
 <img  display='block' style="margin:20px 20px 20px 0;" alt="beliuhao's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=beliuhao&show_icons=true&hide_border=true&theme=tokyonight" />
+
+---
+
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
+  
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+</details>
 
 [website]: https://liuhao.netlify.com/
 [twitter]: https://twitter.com/beliuhao
