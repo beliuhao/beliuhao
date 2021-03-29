@@ -1,4 +1,4 @@
-### Hi there <a href="https://beliuhao.github.io/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+### Hi there <a href="https://github.com/beliuhao"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 I'm Hao Liu - AKA [Herman@beliuhao][website], this is the place where I opensource stuff and break things 🤣
 
