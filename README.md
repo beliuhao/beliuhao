@@ -61,18 +61,10 @@ I'm Hao Liu - AKA [Herman@beliuhao][website], this is the place where I opensour
 
 ---
 
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...](https://youtube.com/beliuhao)
-
----
-
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Hello Gatsby](https://beliuhao.github.io/2021-03-26-hello-gatsby/)
 - [First Post](https://beliuhao.github.io/2020-03-27-first-post/)
 <!-- BLOG-POST-LIST:END -->
@@ -81,17 +73,7 @@ I'm Hao Liu - AKA [Herman@beliuhao][website], this is the place where I opensour
 
 ---
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-</details>
+<img align="left" alt="beliuhao's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=beliuhao&show_icons=true&hide_border=true" />
 
 [website]: https://beliuhao.github.io/
 [twitter]: https://twitter.com/beliuhao
