@@ -56,8 +56,7 @@ I'm Hao Liu - AKA [Herman@liuhao][website]. I'm a Husband, Father, Developer, an
 ### 📕 Latest Blog Posts [@beliuhao](https://liuhao.netlify.com/)
 
 <!-- BLOG-POST-LIST:START -->
-- [Hello Gatsby](https://github.com/beliuhao/2021-03-26-hello-gatsby/)
-- [First Post](https://github.com/beliuhao/2020-03-27-first-post/)
+- [Writing in markdown](https://github.com/beliuhao/2020-03-27-writing-in-markdown/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
