@@ -69,7 +69,15 @@ I'm Hao Liu - AKA [Herman@liuhao][website]. I'm a Husband, Father, Developer, an
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
+1. ⭐ Starred [nadermx/backgroundremover](https://github.com/nadermx/backgroundremover)
+2. ⭐ Starred [laurent22/joplin](https://github.com/laurent22/joplin)
+3. ⭐ Starred [qishibo/AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager)
+4. ⭐ Starred [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide)
+5. 
+<!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
+Last Updated: Friday, September 3rd, 2021, 3:46:22 AM
+<!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
 
