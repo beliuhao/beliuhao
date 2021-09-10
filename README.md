@@ -76,7 +76,7 @@ I'm Hao Liu - AKA [Herman@liuhao][website]. I'm a Husband, Father, Developer, an
 5. 
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, September 10th, 2021, 6:37:11 AM
+Last Updated: Friday, September 10th, 2021, 6:51:34 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
