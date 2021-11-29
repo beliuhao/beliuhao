@@ -69,14 +69,14 @@ I'm Hao Liu - AKA [Herman@liuhao][website]. I'm a Husband, Father, Developer, an
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [cobaltdisco/Google-Chinese-Results-Blocklist](https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist)
-2. ⭐ Starred [troyeguo/koodo-reader](https://github.com/troyeguo/koodo-reader)
-3. ⭐ Starred [nadermx/backgroundremover](https://github.com/nadermx/backgroundremover)
-4. ⭐ Starred [qishibo/AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager)
+1. ⭐ Starred [fastify/fastify](https://github.com/fastify/fastify)
+2. ⭐ Starred [cobaltdisco/Google-Chinese-Results-Blocklist](https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist)
+3. ⭐ Starred [troyeguo/koodo-reader](https://github.com/troyeguo/koodo-reader)
+4. ⭐ Starred [nadermx/backgroundremover](https://github.com/nadermx/backgroundremover)
 5. ⭐ Starred [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, November 29th, 2021, 6:38:14 AM
+Last Updated: Monday, November 29th, 2021, 6:52:52 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
