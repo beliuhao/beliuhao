@@ -69,14 +69,14 @@ I'm Hao Liu - AKA [Herman@liuhao][website]. I'm a Husband, Father, Developer, an
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [gpakosz/.tmux](https://github.com/gpakosz/.tmux)
-2. ⭐ Starred [fastify/fastify](https://github.com/fastify/fastify)
-3. ⭐ Starred [cobaltdisco/Google-Chinese-Results-Blocklist](https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist)
-4. ⭐ Starred [troyeguo/koodo-reader](https://github.com/troyeguo/koodo-reader)
-5. ⭐ Starred [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide)
+1. ⭐ Starred [HarborLibrary/Political-Science](https://github.com/HarborLibrary/Political-Science)
+2. ⭐ Starred [gpakosz/.tmux](https://github.com/gpakosz/.tmux)
+3. ⭐ Starred [fastify/fastify](https://github.com/fastify/fastify)
+4. ⭐ Starred [cobaltdisco/Google-Chinese-Results-Blocklist](https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist)
+5. ⭐ Starred [troyeguo/koodo-reader](https://github.com/troyeguo/koodo-reader)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, December 9th, 2021, 3:28:54 AM
+Last Updated: Thursday, December 9th, 2021, 3:42:00 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
