@@ -69,14 +69,14 @@ I'm Hao Liu - AKA [Herman@liuhao][website]. I'm a Husband, Father, Developer, an
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [iBotPeaches/Apktool](https://github.com/iBotPeaches/Apktool)
-2. ⭐ Starred [PostHog/posthog](https://github.com/PostHog/posthog)
-3. ⭐ Starred [HarborLibrary/Political-Science](https://github.com/HarborLibrary/Political-Science)
-4. ⭐ Starred [gpakosz/.tmux](https://github.com/gpakosz/.tmux)
-5. ⭐ Starred [fastify/fastify](https://github.com/fastify/fastify)
+1. ⭐ Starred [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
+2. ⭐ Starred [public-apis/public-apis](https://github.com/public-apis/public-apis)
+3. ⭐ Starred [pawelborkar/awesome-repos](https://github.com/pawelborkar/awesome-repos)
+4. ⭐ Starred [danistefanovic/build-your-own-x](https://github.com/danistefanovic/build-your-own-x)
+5. ⭐ Starred [iBotPeaches/Apktool](https://github.com/iBotPeaches/Apktool)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, January 24th, 2022, 9:42:51 AM
+Last Updated: Monday, January 24th, 2022, 9:52:59 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
