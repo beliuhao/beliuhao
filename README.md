@@ -69,14 +69,14 @@ I'm Hao Liu - AKA [Herman@liuhao][website]. I'm a Husband, Father, Developer, an
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [sindresorhus/awesome-scifi](https://github.com/sindresorhus/awesome-scifi)
-2. ⭐ Starred [ramnes/awesome-mongodb](https://github.com/ramnes/awesome-mongodb)
-3. ⭐ Starred [karlhorky/learn-to-program](https://github.com/karlhorky/learn-to-program)
-4. ⭐ Starred [bnb/awesome-hyper](https://github.com/bnb/awesome-hyper)
-5. ⭐ Starred [k4m4/terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy)
+1. ⭐ Starred [nmaggiulli/of-dollars-and-data](https://github.com/nmaggiulli/of-dollars-and-data)
+2. ⭐ Starred [sindresorhus/awesome-scifi](https://github.com/sindresorhus/awesome-scifi)
+3. ⭐ Starred [ramnes/awesome-mongodb](https://github.com/ramnes/awesome-mongodb)
+4. ⭐ Starred [karlhorky/learn-to-program](https://github.com/karlhorky/learn-to-program)
+5. ⭐ Starred [bnb/awesome-hyper](https://github.com/bnb/awesome-hyper)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, March 7th, 2022, 6:50:48 AM
+Last Updated: Monday, March 7th, 2022, 7:10:29 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
