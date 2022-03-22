@@ -69,14 +69,14 @@ I'm Hao Liu - AKA [Herman@liuhao][website]. I'm a Husband, Father, Developer, an
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [kHRISl33t/runtime-env-cra](https://github.com/kHRISl33t/runtime-env-cra)
-2. ⭐ Starred [nmaggiulli/of-dollars-and-data](https://github.com/nmaggiulli/of-dollars-and-data)
-3. ⭐ Starred [sindresorhus/awesome-scifi](https://github.com/sindresorhus/awesome-scifi)
-4. ⭐ Starred [ramnes/awesome-mongodb](https://github.com/ramnes/awesome-mongodb)
-5. ⭐ Starred [karlhorky/learn-to-program](https://github.com/karlhorky/learn-to-program)
+1. ⭐ Starred [anthony-tuininga/cx_OracleTools](https://github.com/anthony-tuininga/cx_OracleTools)
+2. ⭐ Starred [oracle/python-cx_Oracle](https://github.com/oracle/python-cx_Oracle)
+3. ⭐ Starred [kHRISl33t/runtime-env-cra](https://github.com/kHRISl33t/runtime-env-cra)
+4. ⭐ Starred [nmaggiulli/of-dollars-and-data](https://github.com/nmaggiulli/of-dollars-and-data)
+5. ⭐ Starred [sindresorhus/awesome-scifi](https://github.com/sindresorhus/awesome-scifi)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, March 22nd, 2022, 6:12:39 AM
+Last Updated: Tuesday, March 22nd, 2022, 6:37:28 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
