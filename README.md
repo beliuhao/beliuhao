@@ -69,14 +69,14 @@ I'm Hao Liu - AKA [Herman@liuhao][website]. I'm a Husband, Father, Developer, an
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [express-validator/express-validator](https://github.com/express-validator/express-validator)
-2. ⭐ Starred [ajv-validator/ajv](https://github.com/ajv-validator/ajv)
-3. ⭐ Starred [ariroffe/personal-website](https://github.com/ariroffe/personal-website)
-4. ⭐ Starred [solidjs/solid](https://github.com/solidjs/solid)
-5. ⭐ Starred [lanceliao/china-holiday-calender](https://github.com/lanceliao/china-holiday-calender)
+1. ⭐ Starred [pinojs/pino](https://github.com/pinojs/pino)
+2. ⭐ Starred [express-validator/express-validator](https://github.com/express-validator/express-validator)
+3. ⭐ Starred [ajv-validator/ajv](https://github.com/ajv-validator/ajv)
+4. ⭐ Starred [ariroffe/personal-website](https://github.com/ariroffe/personal-website)
+5. ⭐ Starred [solidjs/solid](https://github.com/solidjs/solid)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, April 12th, 2022, 4:56:47 AM
+Last Updated: Tuesday, April 12th, 2022, 5:12:51 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
