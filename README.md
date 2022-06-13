@@ -69,14 +69,14 @@ I'm Hao Liu - AKA [Herman@liuhao][website]. I'm a Husband, Father, Developer, an
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly)
-2. ⭐ Starred [hashicorp/terraform](https://github.com/hashicorp/terraform)
-3. ⭐ Starred [typecho/typecho](https://github.com/typecho/typecho)
-4. ⭐ Starred [FrontendMasters/learning-roadmap](https://github.com/FrontendMasters/learning-roadmap)
-5. ⭐ Starred [charliex2/awesome-image-sites](https://github.com/charliex2/awesome-image-sites)
+1. ⭐ Starred [lucacasonato/fresh](https://github.com/lucacasonato/fresh)
+2. ⭐ Starred [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly)
+3. ⭐ Starred [hashicorp/terraform](https://github.com/hashicorp/terraform)
+4. ⭐ Starred [typecho/typecho](https://github.com/typecho/typecho)
+5. ⭐ Starred [FrontendMasters/learning-roadmap](https://github.com/FrontendMasters/learning-roadmap)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, June 13th, 2022, 12:57:49 AM
+Last Updated: Monday, June 13th, 2022, 3:03:20 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
