@@ -69,14 +69,14 @@ I'm Hao Liu - AKA [Herman@liuhao][website]. I'm a Husband, Father, Developer, an
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [nwjs/nw.js](https://github.com/nwjs/nw.js)
-2. ⭐ Starred [tentone/nunuStudio](https://github.com/tentone/nunuStudio)
-3. ⭐ Starred [WhitestormJS/whs.js](https://github.com/WhitestormJS/whs.js)
-4. ⭐ Starred [zbezj/reader](https://github.com/zbezj/reader)
-5. ⭐ Starred [zbezj/HEU_KMS_Activator](https://github.com/zbezj/HEU_KMS_Activator)
+1. ⭐ Starred [python-jsonschema/jsonschema](https://github.com/python-jsonschema/jsonschema)
+2. ⭐ Starred [nwjs/nw.js](https://github.com/nwjs/nw.js)
+3. ⭐ Starred [tentone/nunuStudio](https://github.com/tentone/nunuStudio)
+4. ⭐ Starred [WhitestormJS/whs.js](https://github.com/WhitestormJS/whs.js)
+5. ⭐ Starred [zbezj/reader](https://github.com/zbezj/reader)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, June 27th, 2022, 10:11:59 AM
+Last Updated: Monday, June 27th, 2022, 10:37:22 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
