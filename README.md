@@ -69,14 +69,14 @@ I'm Hao Liu - AKA [Herman@liuhao][website]. I'm a Husband, Father, Developer, an
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [alan2207/bulletproof-react](https://github.com/alan2207/bulletproof-react)
-2. ⭐ Starred [baidu/amis](https://github.com/baidu/amis)
-3. ⭐ Starred [OnsenUI/OnsenUI](https://github.com/OnsenUI/OnsenUI)
-4. ⭐ Starred [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui)
-5. ⭐ Starred [designcourse/threejs-webpack-starter](https://github.com/designcourse/threejs-webpack-starter)
+1. ⭐ Starred [kettanaito/naming-cheatsheet](https://github.com/kettanaito/naming-cheatsheet)
+2. ⭐ Starred [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
+3. ⭐ Starred [alan2207/bulletproof-react](https://github.com/alan2207/bulletproof-react)
+4. ⭐ Starred [baidu/amis](https://github.com/baidu/amis)
+5. ⭐ Starred [OnsenUI/OnsenUI](https://github.com/OnsenUI/OnsenUI)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, July 13th, 2022, 10:13:50 AM
+Last Updated: Wednesday, July 13th, 2022, 10:39:45 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
