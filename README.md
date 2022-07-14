@@ -69,14 +69,14 @@ I'm Hao Liu - AKA [Herman@liuhao][website]. I'm a Husband, Father, Developer, an
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [alan2207/react-query-auth](https://github.com/alan2207/react-query-auth)
-2. ⭐ Starred [react-hook-form/react-hook-form](https://github.com/react-hook-form/react-hook-form)
-3. ⭐ Starred [rwaldron/idiomatic.js](https://github.com/rwaldron/idiomatic.js)
-4. ⭐ Starred [braziljs/js-the-right-way](https://github.com/braziljs/js-the-right-way)
-5. ⭐ Starred [kettanaito/naming-cheatsheet](https://github.com/kettanaito/naming-cheatsheet)
+1. ⭐ Starred [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts)
+2. ⭐ Starred [alan2207/react-query-auth](https://github.com/alan2207/react-query-auth)
+3. ⭐ Starred [react-hook-form/react-hook-form](https://github.com/react-hook-form/react-hook-form)
+4. ⭐ Starred [rwaldron/idiomatic.js](https://github.com/rwaldron/idiomatic.js)
+5. ⭐ Starred [braziljs/js-the-right-way](https://github.com/braziljs/js-the-right-way)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, July 14th, 2022, 6:56:52 AM
+Last Updated: Thursday, July 14th, 2022, 7:14:16 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
