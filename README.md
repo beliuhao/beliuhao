@@ -69,14 +69,14 @@ I'm Hao Liu - AKA [Herman@liuhao][website]. I'm a Husband, Father, Developer, an
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [pmndrs/drei](https://github.com/pmndrs/drei)
-2. ⭐ Starred [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts)
-3. ⭐ Starred [alan2207/react-query-auth](https://github.com/alan2207/react-query-auth)
-4. ⭐ Starred [react-hook-form/react-hook-form](https://github.com/react-hook-form/react-hook-form)
-5. ⭐ Starred [rwaldron/idiomatic.js](https://github.com/rwaldron/idiomatic.js)
+1. ⭐ Starred [obsproject/obs-studio](https://github.com/obsproject/obs-studio)
+2. ⭐ Starred [MindFxck/daguguguji](https://github.com/MindFxck/daguguguji)
+3. ⭐ Starred [pmndrs/drei](https://github.com/pmndrs/drei)
+4. ⭐ Starred [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts)
+5. ⭐ Starred [alan2207/react-query-auth](https://github.com/alan2207/react-query-auth)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, July 25th, 2022, 12:59:28 AM
+Last Updated: Monday, July 25th, 2022, 3:18:49 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
