@@ -69,14 +69,14 @@ I'm Hao Liu - AKA [Herman@liuhao][website]. I'm a Husband, Father, Developer, an
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ant-design/ant-design](https://github.com/ant-design/ant-design)
-2. ⭐ Starred [react-bootstrap/react-bootstrap](https://github.com/react-bootstrap/react-bootstrap)
-3. ⭐ Starred [bagder/everything-curl](https://github.com/bagder/everything-curl)
-4. ⭐ Starred [obsproject/obs-studio](https://github.com/obsproject/obs-studio)
-5. ⭐ Starred [MindFxck/daguguguji](https://github.com/MindFxck/daguguguji)
+1. ⭐ Starred [louischatriot/nedb](https://github.com/louischatriot/nedb)
+2. ⭐ Starred [ant-design/ant-design](https://github.com/ant-design/ant-design)
+3. ⭐ Starred [react-bootstrap/react-bootstrap](https://github.com/react-bootstrap/react-bootstrap)
+4. ⭐ Starred [bagder/everything-curl](https://github.com/bagder/everything-curl)
+5. ⭐ Starred [obsproject/obs-studio](https://github.com/obsproject/obs-studio)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, August 2nd, 2022, 3:37:49 AM
+Last Updated: Tuesday, August 2nd, 2022, 4:55:13 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
