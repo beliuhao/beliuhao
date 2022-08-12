@@ -69,14 +69,14 @@ I'm Hao Liu - AKA [Herman@liuhao][website]. I'm a Husband, Father, Developer, an
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [electron/electron](https://github.com/electron/electron)
-2. ⭐ Starred [louischatriot/nedb](https://github.com/louischatriot/nedb)
-3. ⭐ Starred [ant-design/ant-design](https://github.com/ant-design/ant-design)
-4. ⭐ Starred [react-bootstrap/react-bootstrap](https://github.com/react-bootstrap/react-bootstrap)
-5. ⭐ Starred [bagder/everything-curl](https://github.com/bagder/everything-curl)
+1. ⭐ Starred [Sycnex/Windows10Debloater](https://github.com/Sycnex/Windows10Debloater)
+2. ⭐ Starred [electron/electron](https://github.com/electron/electron)
+3. ⭐ Starred [louischatriot/nedb](https://github.com/louischatriot/nedb)
+4. ⭐ Starred [ant-design/ant-design](https://github.com/ant-design/ant-design)
+5. ⭐ Starred [react-bootstrap/react-bootstrap](https://github.com/react-bootstrap/react-bootstrap)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, August 12th, 2022, 9:53:01 AM
+Last Updated: Friday, August 12th, 2022, 10:12:43 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
