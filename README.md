@@ -69,14 +69,14 @@ I'm Hao Liu - AKA [Herman@liuhao][website]. I'm a Husband, Father, Developer, an
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [scottie1984/swagger-ui-express](https://github.com/scottie1984/swagger-ui-express)
-2. ⭐ Starred [kogosoftwarellc/open-api](https://github.com/kogosoftwarellc/open-api)
-3. ⭐ Starred [davibaltar/swagger-autogen](https://github.com/davibaltar/swagger-autogen)
-4. ⭐ Starred [Sycnex/Windows10Debloater](https://github.com/Sycnex/Windows10Debloater)
-5. ⭐ Starred [electron/electron](https://github.com/electron/electron)
+1. ⭐ Starred [talkpython/modern-apis-with-fastapi](https://github.com/talkpython/modern-apis-with-fastapi)
+2. ⭐ Starred [scottie1984/swagger-ui-express](https://github.com/scottie1984/swagger-ui-express)
+3. ⭐ Starred [kogosoftwarellc/open-api](https://github.com/kogosoftwarellc/open-api)
+4. ⭐ Starred [davibaltar/swagger-autogen](https://github.com/davibaltar/swagger-autogen)
+5. ⭐ Starred [Sycnex/Windows10Debloater](https://github.com/Sycnex/Windows10Debloater)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, August 24th, 2022, 8:40:00 AM
+Last Updated: Wednesday, August 24th, 2022, 8:53:51 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
