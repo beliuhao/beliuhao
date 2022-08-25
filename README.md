@@ -69,14 +69,14 @@ I'm Hao Liu - AKA [Herman@liuhao][website]. I'm a Husband, Father, Developer, an
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [pyenv/pyenv](https://github.com/pyenv/pyenv)
-2. ⭐ Starred [Youngestdev/fastapi-mongo](https://github.com/Youngestdev/fastapi-mongo)
-3. ⭐ Starred [teamhide/fastapi-boilerplate](https://github.com/teamhide/fastapi-boilerplate)
-4. ⭐ Starred [tiangolo/fastapi](https://github.com/tiangolo/fastapi)
-5. ⭐ Starred [sanic-org/sanic](https://github.com/sanic-org/sanic)
+1. ⭐ Starred [ycd/manage-fastapi](https://github.com/ycd/manage-fastapi)
+2. ⭐ Starred [pyenv/pyenv](https://github.com/pyenv/pyenv)
+3. ⭐ Starred [Youngestdev/fastapi-mongo](https://github.com/Youngestdev/fastapi-mongo)
+4. ⭐ Starred [teamhide/fastapi-boilerplate](https://github.com/teamhide/fastapi-boilerplate)
+5. ⭐ Starred [tiangolo/fastapi](https://github.com/tiangolo/fastapi)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, August 25th, 2022, 3:44:54 AM
+Last Updated: Thursday, August 25th, 2022, 5:08:09 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
