@@ -69,14 +69,14 @@ I'm Hao Liu - AKA [Herman@liuhao][website]. I'm a Husband, Father, Developer, an
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [fastapi-users/fastapi-users](https://github.com/fastapi-users/fastapi-users)
-2. ⭐ Starred [ycd/manage-fastapi](https://github.com/ycd/manage-fastapi)
-3. ⭐ Starred [pyenv/pyenv](https://github.com/pyenv/pyenv)
-4. ⭐ Starred [Youngestdev/fastapi-mongo](https://github.com/Youngestdev/fastapi-mongo)
-5. ⭐ Starred [teamhide/fastapi-boilerplate](https://github.com/teamhide/fastapi-boilerplate)
+1. ⭐ Starred [heartexlabs/label-studio](https://github.com/heartexlabs/label-studio)
+2. ⭐ Starred [NorthwoodsSoftware/GoJS](https://github.com/NorthwoodsSoftware/GoJS)
+3. ⭐ Starred [heartexlabs/awesome-data-labeling](https://github.com/heartexlabs/awesome-data-labeling)
+4. ⭐ Starred [CSAILVision/LabelMeAnnotationTool](https://github.com/CSAILVision/LabelMeAnnotationTool)
+5. ⭐ Starred [opencv/cvat](https://github.com/opencv/cvat)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, August 31st, 2022, 2:04:51 AM
+Last Updated: Wednesday, August 31st, 2022, 4:35:36 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
