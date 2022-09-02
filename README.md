@@ -69,14 +69,14 @@ I'm Hao Liu - AKA [Herman@liuhao][website]. I'm a Husband, Father, Developer, an
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [heartexlabs/label-studio](https://github.com/heartexlabs/label-studio)
-2. ⭐ Starred [NorthwoodsSoftware/GoJS](https://github.com/NorthwoodsSoftware/GoJS)
-3. ⭐ Starred [heartexlabs/awesome-data-labeling](https://github.com/heartexlabs/awesome-data-labeling)
-4. ⭐ Starred [CSAILVision/LabelMeAnnotationTool](https://github.com/CSAILVision/LabelMeAnnotationTool)
-5. ⭐ Starred [opencv/cvat](https://github.com/opencv/cvat)
+1. ⭐ Starred [evanw/esbuild](https://github.com/evanw/esbuild)
+2. ⭐ Starred [heartexlabs/label-studio](https://github.com/heartexlabs/label-studio)
+3. ⭐ Starred [NorthwoodsSoftware/GoJS](https://github.com/NorthwoodsSoftware/GoJS)
+4. ⭐ Starred [heartexlabs/awesome-data-labeling](https://github.com/heartexlabs/awesome-data-labeling)
+5. ⭐ Starred [CSAILVision/LabelMeAnnotationTool](https://github.com/CSAILVision/LabelMeAnnotationTool)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, September 2nd, 2022, 1:16:26 AM
+Last Updated: Friday, September 2nd, 2022, 3:48:16 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
