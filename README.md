@@ -69,14 +69,14 @@ I'm Hao Liu - AKA [Herman@liuhao][website]. I'm a Husband, Father, Developer, an
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [tiangolo/uvicorn-gunicorn-fastapi-docker](https://github.com/tiangolo/uvicorn-gunicorn-fastapi-docker)
-2. ⭐ Starred [python/mypy](https://github.com/python/mypy)
-3. ⭐ Starred [evanw/esbuild](https://github.com/evanw/esbuild)
-4. ⭐ Starred [heartexlabs/label-studio](https://github.com/heartexlabs/label-studio)
-5. ⭐ Starred [NorthwoodsSoftware/GoJS](https://github.com/NorthwoodsSoftware/GoJS)
+1. ⭐ Starred [vi/websocat](https://github.com/vi/websocat)
+2. ⭐ Starred [tiangolo/uvicorn-gunicorn-fastapi-docker](https://github.com/tiangolo/uvicorn-gunicorn-fastapi-docker)
+3. ⭐ Starred [python/mypy](https://github.com/python/mypy)
+4. ⭐ Starred [evanw/esbuild](https://github.com/evanw/esbuild)
+5. ⭐ Starred [heartexlabs/label-studio](https://github.com/heartexlabs/label-studio)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, September 23rd, 2022, 7:59:12 AM
+Last Updated: Friday, September 23rd, 2022, 8:29:57 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
