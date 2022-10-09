@@ -69,14 +69,14 @@ I'm Hao Liu - AKA [Herman@liuhao][website]. I'm a Husband, Father, Developer, an
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Sophia-Community/SophiApp](https://github.com/Sophia-Community/SophiApp)
-2. ⭐ Starred [vi/websocat](https://github.com/vi/websocat)
-3. ⭐ Starred [tiangolo/uvicorn-gunicorn-fastapi-docker](https://github.com/tiangolo/uvicorn-gunicorn-fastapi-docker)
-4. ⭐ Starred [python/mypy](https://github.com/python/mypy)
-5. ⭐ Starred [evanw/esbuild](https://github.com/evanw/esbuild)
+1. ⭐ Starred [mnboos/jsonschema-default](https://github.com/mnboos/jsonschema-default)
+2. ⭐ Starred [Sophia-Community/SophiApp](https://github.com/Sophia-Community/SophiApp)
+3. ⭐ Starred [vi/websocat](https://github.com/vi/websocat)
+4. ⭐ Starred [tiangolo/uvicorn-gunicorn-fastapi-docker](https://github.com/tiangolo/uvicorn-gunicorn-fastapi-docker)
+5. ⭐ Starred [python/mypy](https://github.com/python/mypy)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, October 9th, 2022, 10:13:30 AM
+Last Updated: Sunday, October 9th, 2022, 10:41:29 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
