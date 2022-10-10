@@ -69,14 +69,14 @@ I'm Hao Liu - AKA [Herman@liuhao][website]. I'm a Husband, Father, Developer, an
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [mnboos/jsonschema-default](https://github.com/mnboos/jsonschema-default)
-2. ⭐ Starred [Sophia-Community/SophiApp](https://github.com/Sophia-Community/SophiApp)
-3. ⭐ Starred [vi/websocat](https://github.com/vi/websocat)
-4. ⭐ Starred [tiangolo/uvicorn-gunicorn-fastapi-docker](https://github.com/tiangolo/uvicorn-gunicorn-fastapi-docker)
-5. ⭐ Starred [python/mypy](https://github.com/python/mypy)
+1. ⭐ Starred [wolverdude/GenSON](https://github.com/wolverdude/GenSON)
+2. ⭐ Starred [mnboos/jsonschema-default](https://github.com/mnboos/jsonschema-default)
+3. ⭐ Starred [Sophia-Community/SophiApp](https://github.com/Sophia-Community/SophiApp)
+4. ⭐ Starred [vi/websocat](https://github.com/vi/websocat)
+5. ⭐ Starred [tiangolo/uvicorn-gunicorn-fastapi-docker](https://github.com/tiangolo/uvicorn-gunicorn-fastapi-docker)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, October 9th, 2022, 11:59:30 PM
+Last Updated: Monday, October 10th, 2022, 2:28:13 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
