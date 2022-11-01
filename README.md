@@ -69,14 +69,14 @@ I'm Hao Liu - AKA [Herman@liuhao][website]. I'm a Husband, Father, Developer, an
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [openedx/devstack](https://github.com/openedx/devstack)
-2. ⭐ Starred [caddyserver/caddy](https://github.com/caddyserver/caddy)
-3. ⭐ Starred [wolverdude/GenSON](https://github.com/wolverdude/GenSON)
-4. ⭐ Starred [mnboos/jsonschema-default](https://github.com/mnboos/jsonschema-default)
-5. ⭐ Starred [Sophia-Community/SophiApp](https://github.com/Sophia-Community/SophiApp)
+1. ⭐ Starred [encode/django-rest-framework](https://github.com/encode/django-rest-framework)
+2. ⭐ Starred [openedx/devstack](https://github.com/openedx/devstack)
+3. ⭐ Starred [caddyserver/caddy](https://github.com/caddyserver/caddy)
+4. ⭐ Starred [wolverdude/GenSON](https://github.com/wolverdude/GenSON)
+5. ⭐ Starred [mnboos/jsonschema-default](https://github.com/mnboos/jsonschema-default)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, November 1st, 2022, 1:25:30 AM
+Last Updated: Tuesday, November 1st, 2022, 3:51:22 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
