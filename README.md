@@ -69,14 +69,14 @@ I'm Hao Liu - AKA [Herman@liuhao][website]. I'm a Husband, Father, Developer, an
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [encode/django-rest-framework](https://github.com/encode/django-rest-framework)
-2. ⭐ Starred [openedx/devstack](https://github.com/openedx/devstack)
-3. ⭐ Starred [caddyserver/caddy](https://github.com/caddyserver/caddy)
-4. ⭐ Starred [wolverdude/GenSON](https://github.com/wolverdude/GenSON)
-5. ⭐ Starred [mnboos/jsonschema-default](https://github.com/mnboos/jsonschema-default)
+1. ⭐ Starred [ros-planning/moveit2](https://github.com/ros-planning/moveit2)
+2. ⭐ Starred [encode/django-rest-framework](https://github.com/encode/django-rest-framework)
+3. ⭐ Starred [openedx/devstack](https://github.com/openedx/devstack)
+4. ⭐ Starred [caddyserver/caddy](https://github.com/caddyserver/caddy)
+5. ⭐ Starred [wolverdude/GenSON](https://github.com/wolverdude/GenSON)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, November 3rd, 2022, 5:54:28 AM
+Last Updated: Thursday, November 3rd, 2022, 6:14:57 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
