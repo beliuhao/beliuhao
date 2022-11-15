@@ -69,14 +69,14 @@ I'm Hao Liu - AKA [Herman@liuhao][website]. I'm a Husband, Father, Developer, an
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [d3/d3](https://github.com/d3/d3)
-2. ⭐ Starred [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc)
-3. ⭐ Starred [The-Run-Philosophy-Organization/run](https://github.com/The-Run-Philosophy-Organization/run)
-4. ⭐ Starred [refined-github/refined-github](https://github.com/refined-github/refined-github)
-5. ⭐ Starred [sudheerj/vuejs-interview-questions](https://github.com/sudheerj/vuejs-interview-questions)
+1. ⭐ Starred [remix-run/remix](https://github.com/remix-run/remix)
+2. ⭐ Starred [strapi/strapi](https://github.com/strapi/strapi)
+3. ⭐ Starred [d3/d3](https://github.com/d3/d3)
+4. ⭐ Starred [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc)
+5. ⭐ Starred [The-Run-Philosophy-Organization/run](https://github.com/The-Run-Philosophy-Organization/run)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, November 15th, 2022, 6:50:37 AM
+Last Updated: Tuesday, November 15th, 2022, 7:10:22 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
