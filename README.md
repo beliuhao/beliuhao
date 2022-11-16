@@ -69,14 +69,14 @@ I'm Hao Liu - AKA [Herman@liuhao][website]. I'm a Husband, Father, Developer, an
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [olivierlacan/keep-a-changelog](https://github.com/olivierlacan/keep-a-changelog)
-2. ⭐ Starred [remix-run/remix](https://github.com/remix-run/remix)
-3. ⭐ Starred [strapi/strapi](https://github.com/strapi/strapi)
-4. ⭐ Starred [d3/d3](https://github.com/d3/d3)
-5. ⭐ Starred [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc)
+1. ⭐ Starred [adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs)
+2. ⭐ Starred [olivierlacan/keep-a-changelog](https://github.com/olivierlacan/keep-a-changelog)
+3. ⭐ Starred [remix-run/remix](https://github.com/remix-run/remix)
+4. ⭐ Starred [strapi/strapi](https://github.com/strapi/strapi)
+5. ⭐ Starred [d3/d3](https://github.com/d3/d3)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, November 16th, 2022, 9:11:08 AM
+Last Updated: Wednesday, November 16th, 2022, 9:30:54 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
