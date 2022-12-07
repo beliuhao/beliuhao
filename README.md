@@ -69,14 +69,14 @@ I'm Hao Liu - AKA [Herman@liuhao][website]. I'm a Husband, Father, Developer, an
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube)
-2. ⭐ Starred [streamlit/streamlit](https://github.com/streamlit/streamlit)
-3. ⭐ Starred [adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs)
-4. ⭐ Starred [olivierlacan/keep-a-changelog](https://github.com/olivierlacan/keep-a-changelog)
-5. ⭐ Starred [remix-run/remix](https://github.com/remix-run/remix)
+1. ⭐ Starred [pyodide/pyodide](https://github.com/pyodide/pyodide)
+2. ⭐ Starred [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube)
+3. ⭐ Starred [streamlit/streamlit](https://github.com/streamlit/streamlit)
+4. ⭐ Starred [adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs)
+5. ⭐ Starred [olivierlacan/keep-a-changelog](https://github.com/olivierlacan/keep-a-changelog)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, December 7th, 2022, 9:25:05 AM
+Last Updated: Wednesday, December 7th, 2022, 9:33:43 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
