@@ -69,14 +69,14 @@ I'm Hao Liu - AKA [Herman@liuhao][website]. I'm a Husband, Father, Developer, an
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [kaelzhang/node-comment-json](https://github.com/kaelzhang/node-comment-json)
-2. ⭐ Starred [pyodide/pyodide](https://github.com/pyodide/pyodide)
-3. ⭐ Starred [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube)
-4. ⭐ Starred [streamlit/streamlit](https://github.com/streamlit/streamlit)
-5. ⭐ Starred [adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs)
+1. ⭐ Starred [fuergaosi233/wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt)
+2. ⭐ Starred [kaelzhang/node-comment-json](https://github.com/kaelzhang/node-comment-json)
+3. ⭐ Starred [pyodide/pyodide](https://github.com/pyodide/pyodide)
+4. ⭐ Starred [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube)
+5. ⭐ Starred [streamlit/streamlit](https://github.com/streamlit/streamlit)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, December 13th, 2022, 2:21:52 AM
+Last Updated: Tuesday, December 13th, 2022, 3:03:51 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
