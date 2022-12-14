@@ -69,14 +69,14 @@ I'm Hao Liu - AKA [Herman@liuhao][website]. I'm a Husband, Father, Developer, an
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [fuergaosi233/wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt)
-2. ⭐ Starred [kaelzhang/node-comment-json](https://github.com/kaelzhang/node-comment-json)
-3. ⭐ Starred [pyodide/pyodide](https://github.com/pyodide/pyodide)
-4. ⭐ Starred [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube)
-5. ⭐ Starred [streamlit/streamlit](https://github.com/streamlit/streamlit)
+1. ⭐ Starred [toutiaoio/weekly.manong.io](https://github.com/toutiaoio/weekly.manong.io)
+2. ⭐ Starred [toutiaoio/A-Guide-To-Stockpiling](https://github.com/toutiaoio/A-Guide-To-Stockpiling)
+3. ⭐ Starred [fuergaosi233/wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt)
+4. ⭐ Starred [kaelzhang/node-comment-json](https://github.com/kaelzhang/node-comment-json)
+5. ⭐ Starred [pyodide/pyodide](https://github.com/pyodide/pyodide)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, December 14th, 2022, 2:34:18 PM
+Last Updated: Wednesday, December 14th, 2022, 2:43:13 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
