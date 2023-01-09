@@ -69,14 +69,14 @@ I'm Hao Liu - AKA [Herman@liuhao][website]. I'm a Husband, Father, Developer, an
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [joewalnes/websocketd](https://github.com/joewalnes/websocketd)<br>
-2. ⭐ Starred [bzsome/idcard_generator](https://github.com/bzsome/idcard_generator)<br>
-3. ⭐ Starred [toutiaoio/weekly.manong.io](https://github.com/toutiaoio/weekly.manong.io)<br>
-4. ⭐ Starred [toutiaoio/A-Guide-To-Stockpiling](https://github.com/toutiaoio/A-Guide-To-Stockpiling)<br>
-5. ⭐ Starred [fuergaosi233/wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt)<br>
+1. ⭐ Starred [rapid7/metasploit-framework](https://github.com/rapid7/metasploit-framework)<br>
+2. ⭐ Starred [joewalnes/websocketd](https://github.com/joewalnes/websocketd)<br>
+3. ⭐ Starred [bzsome/idcard_generator](https://github.com/bzsome/idcard_generator)<br>
+4. ⭐ Starred [toutiaoio/weekly.manong.io](https://github.com/toutiaoio/weekly.manong.io)<br>
+5. ⭐ Starred [toutiaoio/A-Guide-To-Stockpiling](https://github.com/toutiaoio/A-Guide-To-Stockpiling)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, January 9th, 2023, 4:43:39 AM
+Last Updated: Monday, January 9th, 2023, 4:52:55 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
