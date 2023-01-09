@@ -69,14 +69,14 @@ I'm Hao Liu - AKA [Herman@liuhao][website]. I'm a Husband, Father, Developer, an
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [vitejs/vite](https://github.com/vitejs/vite)<br>
-2. ⭐ Starred [rapid7/metasploit-framework](https://github.com/rapid7/metasploit-framework)<br>
-3. ⭐ Starred [joewalnes/websocketd](https://github.com/joewalnes/websocketd)<br>
-4. ⭐ Starred [bzsome/idcard_generator](https://github.com/bzsome/idcard_generator)<br>
-5. ⭐ Starred [toutiaoio/weekly.manong.io](https://github.com/toutiaoio/weekly.manong.io)<br>
+1. ⭐ Starred [viraptor/reverse-interview](https://github.com/viraptor/reverse-interview)<br>
+2. ⭐ Starred [vitejs/vite](https://github.com/vitejs/vite)<br>
+3. ⭐ Starred [rapid7/metasploit-framework](https://github.com/rapid7/metasploit-framework)<br>
+4. ⭐ Starred [joewalnes/websocketd](https://github.com/joewalnes/websocketd)<br>
+5. ⭐ Starred [bzsome/idcard_generator](https://github.com/bzsome/idcard_generator)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, January 9th, 2023, 10:32:14 AM
+Last Updated: Monday, January 9th, 2023, 10:43:01 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
