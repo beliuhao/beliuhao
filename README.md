@@ -69,14 +69,14 @@ I'm Hao Liu - AKA [Herman@liuhao][website]. I'm a Husband, Father, Developer, an
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [wong2/chat-gpt-google-extension](https://github.com/wong2/chat-gpt-google-extension)<br>
-2. ⭐ Starred [openai/CLIP](https://github.com/openai/CLIP)<br>
-3. ⭐ Starred [openai/whisper](https://github.com/openai/whisper)<br>
-4. ⭐ Starred [viraptor/reverse-interview](https://github.com/viraptor/reverse-interview)<br>
-5. ⭐ Starred [vitejs/vite](https://github.com/vitejs/vite)<br>
+1. ⭐ Starred [vueuse/vueuse](https://github.com/vueuse/vueuse)<br>
+2. ⭐ Starred [wong2/chat-gpt-google-extension](https://github.com/wong2/chat-gpt-google-extension)<br>
+3. ⭐ Starred [openai/CLIP](https://github.com/openai/CLIP)<br>
+4. ⭐ Starred [openai/whisper](https://github.com/openai/whisper)<br>
+5. ⭐ Starred [viraptor/reverse-interview](https://github.com/viraptor/reverse-interview)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, January 26th, 2023, 4:11:30 AM
+Last Updated: Thursday, January 26th, 2023, 4:32:14 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
