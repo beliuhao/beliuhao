@@ -69,14 +69,14 @@ I'm Hao Liu - AKA [Herman@liuhao][website]. I'm a Husband, Father, Developer, an
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [mac-s-g/react-json-view](https://github.com/mac-s-g/react-json-view)<br>
-2. ⭐ Starred [vueuse/vueuse](https://github.com/vueuse/vueuse)<br>
-3. ⭐ Starred [wong2/chat-gpt-google-extension](https://github.com/wong2/chat-gpt-google-extension)<br>
-4. ⭐ Starred [openai/CLIP](https://github.com/openai/CLIP)<br>
-5. ⭐ Starred [openai/whisper](https://github.com/openai/whisper)<br>
+1. ⭐ Starred [timofurrer/awesome-asyncio](https://github.com/timofurrer/awesome-asyncio)<br>
+2. ⭐ Starred [mac-s-g/react-json-view](https://github.com/mac-s-g/react-json-view)<br>
+3. ⭐ Starred [vueuse/vueuse](https://github.com/vueuse/vueuse)<br>
+4. ⭐ Starred [wong2/chat-gpt-google-extension](https://github.com/wong2/chat-gpt-google-extension)<br>
+5. ⭐ Starred [openai/CLIP](https://github.com/openai/CLIP)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, February 9th, 2023, 3:42:52 AM
+Last Updated: Thursday, February 9th, 2023, 3:52:51 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
