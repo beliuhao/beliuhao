@@ -69,14 +69,14 @@ I'm Hao Liu - AKA [Herman@liuhao][website]. I'm a Husband, Father, Developer, an
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [zloirock/core-js](https://github.com/zloirock/core-js)<br>
-2. ⭐ Starred [mtlynch/picoshare](https://github.com/mtlynch/picoshare)<br>
-3. ⭐ Starred [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)<br>
-4. ⭐ Starred [taowen/awesome-lowcode](https://github.com/taowen/awesome-lowcode)<br>
-5. ⭐ Starred [timofurrer/awesome-asyncio](https://github.com/timofurrer/awesome-asyncio)<br>
+1. ⭐ Starred [slidevjs/slidev](https://github.com/slidevjs/slidev)<br>
+2. ⭐ Starred [zloirock/core-js](https://github.com/zloirock/core-js)<br>
+3. ⭐ Starred [mtlynch/picoshare](https://github.com/mtlynch/picoshare)<br>
+4. ⭐ Starred [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)<br>
+5. ⭐ Starred [taowen/awesome-lowcode](https://github.com/taowen/awesome-lowcode)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, February 14th, 2023, 9:37:28 AM
+Last Updated: Tuesday, February 14th, 2023, 9:45:16 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
