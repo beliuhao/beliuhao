@@ -70,13 +70,13 @@ I'm Hao Liu - AKA [Herman@liuhao][website]. I'm a Husband, Father, Developer, an
   
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [beliuhao/slidev](https://github.com/beliuhao/slidev)<br>
-2. 📔 Created new repository [beliuhao/slidev](https://github.com/beliuhao/slidev)<br>
-3. ⭐ Starred [rome/tools](https://github.com/rome/tools)<br>
-4. ⭐ Starred [slidevjs/slidev](https://github.com/slidevjs/slidev)<br>
-5. ⭐ Starred [zloirock/core-js](https://github.com/zloirock/core-js)<br>
+2. ⬆️ Pushed 1 commit(s) to [beliuhao/slidev](https://github.com/beliuhao/slidev)<br>
+3. ⬆️ Pushed 1 commit(s) to [beliuhao/slidev](https://github.com/beliuhao/slidev)<br>
+4. 📔 Created new repository [beliuhao/slidev](https://github.com/beliuhao/slidev)<br>
+5. ⭐ Starred [rome/tools](https://github.com/rome/tools)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, February 15th, 2023, 3:53:13 AM
+Last Updated: Wednesday, February 15th, 2023, 4:12:25 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
