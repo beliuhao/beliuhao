@@ -69,14 +69,14 @@ I'm Hao Liu - AKA [Herman@liuhao][website]. I'm a Husband, Father, Developer, an
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [rome/tools](https://github.com/rome/tools)<br>
-2. ⭐ Starred [slidevjs/slidev](https://github.com/slidevjs/slidev)<br>
-3. ⭐ Starred [zloirock/core-js](https://github.com/zloirock/core-js)<br>
-4. ⭐ Starred [mtlynch/picoshare](https://github.com/mtlynch/picoshare)<br>
-5. ⭐ Starred [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)<br>
+1. 📔 Created new repository [beliuhao/slidev](https://github.com/beliuhao/slidev)<br>
+2. ⭐ Starred [rome/tools](https://github.com/rome/tools)<br>
+3. ⭐ Starred [slidevjs/slidev](https://github.com/slidevjs/slidev)<br>
+4. ⭐ Starred [zloirock/core-js](https://github.com/zloirock/core-js)<br>
+5. ⭐ Starred [mtlynch/picoshare](https://github.com/mtlynch/picoshare)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, February 15th, 2023, 3:22:35 AM
+Last Updated: Wednesday, February 15th, 2023, 3:37:37 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
