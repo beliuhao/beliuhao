@@ -69,14 +69,14 @@ I'm Hao Liu - AKA [Herman@liuhao][website]. I'm a Husband, Father, Developer, an
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [coollabsio/coolify](https://github.com/coollabsio/coolify)<br>
-2. ⬆️ Pushed 1 commit(s) to [beliuhao/slidev](https://github.com/beliuhao/slidev)<br>
+1. ⭐ Starred [missing-semester-cn/missing-semester-cn.github.io](https://github.com/missing-semester-cn/missing-semester-cn.github.io)<br>
+2. ⭐ Starred [coollabsio/coolify](https://github.com/coollabsio/coolify)<br>
 3. ⬆️ Pushed 1 commit(s) to [beliuhao/slidev](https://github.com/beliuhao/slidev)<br>
 4. ⬆️ Pushed 1 commit(s) to [beliuhao/slidev](https://github.com/beliuhao/slidev)<br>
 5. ⬆️ Pushed 1 commit(s) to [beliuhao/slidev](https://github.com/beliuhao/slidev)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, March 1st, 2023, 10:33:03 AM
+Last Updated: Wednesday, March 1st, 2023, 10:44:00 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
