@@ -69,14 +69,14 @@ I'm Hao Liu - AKA [Herman@liuhao][website]. I'm a Husband, Father, Developer, an
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [cyberbotics/webots](https://github.com/cyberbotics/webots)<br>
-2. ⭐ Starred [missing-semester-cn/missing-semester-cn.github.io](https://github.com/missing-semester-cn/missing-semester-cn.github.io)<br>
-3. ⭐ Starred [coollabsio/coolify](https://github.com/coollabsio/coolify)<br>
-4. ⬆️ Pushed 1 commit(s) to [beliuhao/slidev](https://github.com/beliuhao/slidev)<br>
-5. ⬆️ Pushed 1 commit(s) to [beliuhao/slidev](https://github.com/beliuhao/slidev)<br>
+1. ⭐ Starred [jslee02/awesome-robotics-libraries](https://github.com/jslee02/awesome-robotics-libraries)<br>
+2. ⭐ Starred [kiloreux/awesome-robotics](https://github.com/kiloreux/awesome-robotics)<br>
+3. ⭐ Starred [cyberbotics/webots](https://github.com/cyberbotics/webots)<br>
+4. ⭐ Starred [missing-semester-cn/missing-semester-cn.github.io](https://github.com/missing-semester-cn/missing-semester-cn.github.io)<br>
+5. ⭐ Starred [coollabsio/coolify](https://github.com/coollabsio/coolify)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, March 3rd, 2023, 2:21:49 AM
+Last Updated: Friday, March 3rd, 2023, 4:18:22 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
