@@ -35,7 +35,7 @@ I'm Hao Liu - AKA [Herman@liuhao][website]. I'm a Husband, Father, Developer, an
 [<img alt="Node.js" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" />][github]
 [<img alt="Express" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" />][github]
 [<img alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />][github]
-[<img alt="Nextjs" width="26px" src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" />][github]
+[<img alt="Nextjs" width="26px" src="https://cdn.cdnlogo.com/logos/n/80/next-js.svg" />][github]
 [<img alt="Electron" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" />][github]
 [<img alt="Webpack" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" />][github]
 
@@ -56,6 +56,7 @@ I'm Hao Liu - AKA [Herman@liuhao][website]. I'm a Husband, Father, Developer, an
 ### 📕 Latest Blog Posts [@beliuhao](https://liuhao.netlify.com/)
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Writing in markdown](https://github.com/beliuhao/2020-03-27-writing-in-markdown/)
 <!-- BLOG-POST-LIST:END -->
 
@@ -91,4 +92,3 @@ Last Updated: Friday, March 31st, 2023, 4:11:12 AM
 ### 📅 What's the date today
 
 China/Shanghai 2023-03-31 09:17:10.837
-
