@@ -11,6 +11,8 @@ on:
     # - cron: '*/5 * * * *'
     # At the beginning of every day.
     - cron: "0 0 * * *"
+    - cron: "0 15 * * *"
+    - cron: "0 16 * * *"
 
 # on: [push]
 
@@ -28,7 +30,7 @@ jobs:
         run: |
           git config --global user.name "Herman Liu"
           git config --global user.email "contactliuhao@gmail.com"
-          now=$(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M:%S.%3N')
+          now=$(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M:%S')
           git add -A
-          git commit -m "Auto Push via GitHub Actions workflow at China/Shanghai: $now"
+          git commit -m "Auto Push via GitHub Actions at China/Shanghai: $now"
           git push
