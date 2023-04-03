@@ -26,7 +26,7 @@ jobs:
         uses: actions/checkout@v3
       - name: Modify date and time
         run: |
-          sed -i '$!N;$s/.*\n/'"China\/Shanghai $(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M:%S.%3N')"'\n/;P;D' README.md
+          sed -i '$s/.*/'"China\/Shanghai $(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M:%S.%3N')"'/' README.md
       - name: Push to repository
         run: |
           git config --global user.name "Herman Liu"
