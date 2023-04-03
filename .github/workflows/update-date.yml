@@ -9,11 +9,10 @@ on:
     # To decrease the chance of delay, schedule your workflow to run at a different time of the hour.
     # Every 5 minutes.
     # - cron: '*/5 * * * *'
-    # At the beginning of every day.
-    - cron: "0 0 * * *"
-    - cron: "0 15 * * *"
+    # At the beginning of every day in UTC
+    # - cron: "0 0 * * *"
+    # At the beginning of every day in China/Shanghai
     - cron: "0 16 * * *"
-    - cron: "0 17 * * *"
 
 # on: [push]
 
