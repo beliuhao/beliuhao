@@ -13,6 +13,7 @@ on:
     # - cron: "0 0 * * *"
     # At the beginning of every day in China/Shanghai
     - cron: "0 16 * * *"
+  workflow_dispatch:
 
 # on: [push]
 
