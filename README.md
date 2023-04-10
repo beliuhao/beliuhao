@@ -69,14 +69,14 @@ I'm Hao Liu - AKA [Herman@liuhao][website]. I'm a Husband, Father, Developer, an
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [beliuhao/beliuhao](https://github.com/beliuhao/beliuhao)<br>
-2. ⬆️ Pushed 1 commit(s) to [beliuhao/beliuhao](https://github.com/beliuhao/beliuhao)<br>
+1. ⭐ Starred [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt)<br>
+2. ⭐ Starred [trigaten/Learn_Prompting](https://github.com/trigaten/Learn_Prompting)<br>
 3. ⬆️ Pushed 1 commit(s) to [beliuhao/beliuhao](https://github.com/beliuhao/beliuhao)<br>
 4. ⬆️ Pushed 1 commit(s) to [beliuhao/beliuhao](https://github.com/beliuhao/beliuhao)<br>
 5. ⬆️ Pushed 1 commit(s) to [beliuhao/beliuhao](https://github.com/beliuhao/beliuhao)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, April 10th, 2023, 7:08:21 AM
+Last Updated: Monday, April 10th, 2023, 7:19:47 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
