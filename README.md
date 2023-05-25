@@ -69,14 +69,14 @@ I'm Hao Liu - AKA [Herman@liuhao][website]. I'm a Husband, Father, Developer, an
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [shadcn/ui](https://github.com/shadcn/ui)<br>
-2. ⭐ Starred [kanboard/kanboard](https://github.com/kanboard/kanboard)<br>
-3. ⭐ Starred [vadimdemedes/ink](https://github.com/vadimdemedes/ink)<br>
-4. ⭐ Starred [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop)<br>
-5. ⭐ Starred [Torantulino/Auto-GPT](https://github.com/Torantulino/Auto-GPT)<br>
+1. ⭐ Starred [JushBJJ/Mr.-Ranedeer-AI-Tutor](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor)<br>
+2. ⭐ Starred [shadcn/ui](https://github.com/shadcn/ui)<br>
+3. ⭐ Starred [kanboard/kanboard](https://github.com/kanboard/kanboard)<br>
+4. ⭐ Starred [vadimdemedes/ink](https://github.com/vadimdemedes/ink)<br>
+5. ⭐ Starred [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, May 25th, 2023, 5:52:52 AM
+Last Updated: Thursday, May 25th, 2023, 6:11:57 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
