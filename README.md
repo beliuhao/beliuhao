@@ -69,14 +69,14 @@ I'm Hao Liu - AKA [Herman@liuhao][website]. I'm a Husband, Father, Developer, an
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx)<br>
-2. ⭐ Starred [JushBJJ/Mr.-Ranedeer-AI-Tutor](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor)<br>
-3. ⭐ Starred [shadcn/ui](https://github.com/shadcn/ui)<br>
-4. ⭐ Starred [kanboard/kanboard](https://github.com/kanboard/kanboard)<br>
-5. ⭐ Starred [vadimdemedes/ink](https://github.com/vadimdemedes/ink)<br>
+1. ⭐ Starred [yihong0618/Kindle_download_helper](https://github.com/yihong0618/Kindle_download_helper)<br>
+2. ⭐ Starred [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx)<br>
+3. ⭐ Starred [JushBJJ/Mr.-Ranedeer-AI-Tutor](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor)<br>
+4. ⭐ Starred [shadcn/ui](https://github.com/shadcn/ui)<br>
+5. ⭐ Starred [kanboard/kanboard](https://github.com/kanboard/kanboard)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, June 5th, 2023, 8:53:02 AM
+Last Updated: Monday, June 5th, 2023, 9:09:27 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
