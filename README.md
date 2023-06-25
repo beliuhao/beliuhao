@@ -69,14 +69,14 @@ I'm Hao Liu - AKA [Herman@liuhao][website]. I'm a Husband, Father, Developer, an
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere)<br>
-2. ⭐ Starred [mackstann/tinywm](https://github.com/mackstann/tinywm)<br>
-3. ⭐ Starred [yihong0618/Kindle_download_helper](https://github.com/yihong0618/Kindle_download_helper)<br>
-4. ⭐ Starred [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx)<br>
-5. ⭐ Starred [JushBJJ/Mr.-Ranedeer-AI-Tutor](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor)<br>
+1. ⭐ Starred [weechat/weechat](https://github.com/weechat/weechat)<br>
+2. ⭐ Starred [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere)<br>
+3. ⭐ Starred [mackstann/tinywm](https://github.com/mackstann/tinywm)<br>
+4. ⭐ Starred [yihong0618/Kindle_download_helper](https://github.com/yihong0618/Kindle_download_helper)<br>
+5. ⭐ Starred [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, June 25th, 2023, 2:51:48 AM
+Last Updated: Sunday, June 25th, 2023, 3:30:47 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
