@@ -69,14 +69,14 @@ I'm Hao Liu - AKA [Herman@liuhao][website]. I'm a Husband, Father, Developer, an
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Heziode/Simple-TLS-Client-Server-with-Node.js](https://github.com/Heziode/Simple-TLS-Client-Server-with-Node.js)<br>
-2. ⭐ Starred [weechat/weechat](https://github.com/weechat/weechat)<br>
-3. ⭐ Starred [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere)<br>
-4. ⭐ Starred [mackstann/tinywm](https://github.com/mackstann/tinywm)<br>
-5. ⭐ Starred [yihong0618/Kindle_download_helper](https://github.com/yihong0618/Kindle_download_helper)<br>
+1. ⭐ Starred [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx)<br>
+2. ⭐ Starred [Heziode/Simple-TLS-Client-Server-with-Node.js](https://github.com/Heziode/Simple-TLS-Client-Server-with-Node.js)<br>
+3. ⭐ Starred [weechat/weechat](https://github.com/weechat/weechat)<br>
+4. ⭐ Starred [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere)<br>
+5. ⭐ Starred [mackstann/tinywm](https://github.com/mackstann/tinywm)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, July 14th, 2023, 3:16:28 AM
+Last Updated: Friday, July 14th, 2023, 3:36:02 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
