@@ -69,14 +69,14 @@ I'm Hao Liu - AKA [Herman@liuhao][website]. I'm a Husband, Father, Developer, an
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [liupan1890/aliyunpan](https://github.com/liupan1890/aliyunpan)<br>
-2. ⭐ Starred [oldj/SwitchHosts](https://github.com/oldj/SwitchHosts)<br>
-3. ⭐ Starred [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm)<br>
-4. ⭐ Starred [you-dont-need/You-Dont-Need-Lodash-Underscore](https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore)<br>
-5. ⭐ Starred [1595901624/1595901624](https://github.com/1595901624/1595901624)<br>
+1. ⭐ Starred [yangzongzhuan/RuoYi](https://github.com/yangzongzhuan/RuoYi)<br>
+2. ⭐ Starred [liupan1890/aliyunpan](https://github.com/liupan1890/aliyunpan)<br>
+3. ⭐ Starred [oldj/SwitchHosts](https://github.com/oldj/SwitchHosts)<br>
+4. ⭐ Starred [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm)<br>
+5. ⭐ Starred [you-dont-need/You-Dont-Need-Lodash-Underscore](https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, October 7th, 2023, 5:42:59 AM
+Last Updated: Saturday, October 7th, 2023, 5:52:48 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
