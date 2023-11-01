@@ -69,14 +69,14 @@ I'm Hao Liu - AKA [Herman@liuhao][website]. I'm a Husband, Father, Developer, an
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [oven-sh/bun](https://github.com/oven-sh/bun)<br>
-2. ⭐ Starred [robot-descriptions/awesome-robot-descriptions](https://github.com/robot-descriptions/awesome-robot-descriptions)<br>
-3. ⭐ Starred [GregaVrbancic/fastapi-celery](https://github.com/GregaVrbancic/fastapi-celery)<br>
-4. ⭐ Starred [airbnb/javascript](https://github.com/airbnb/javascript)<br>
-5. ⭐ Starred [yangzongzhuan/RuoYi](https://github.com/yangzongzhuan/RuoYi)<br>
+1. ⭐ Starred [OI-wiki/OI-wiki](https://github.com/OI-wiki/OI-wiki)<br>
+2. ⭐ Starred [oven-sh/bun](https://github.com/oven-sh/bun)<br>
+3. ⭐ Starred [robot-descriptions/awesome-robot-descriptions](https://github.com/robot-descriptions/awesome-robot-descriptions)<br>
+4. ⭐ Starred [GregaVrbancic/fastapi-celery](https://github.com/GregaVrbancic/fastapi-celery)<br>
+5. ⭐ Starred [airbnb/javascript](https://github.com/airbnb/javascript)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, November 1st, 2023, 4:10:37 AM
+Last Updated: Wednesday, November 1st, 2023, 4:28:06 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
