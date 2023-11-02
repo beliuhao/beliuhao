@@ -69,14 +69,14 @@ I'm Hao Liu - AKA [Herman@liuhao][website]. I'm a Husband, Father, Developer, an
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [antirez/smallchat](https://github.com/antirez/smallchat)<br>
-2. ⭐ Starred [AbdBarho/stable-diffusion-webui-docker](https://github.com/AbdBarho/stable-diffusion-webui-docker)<br>
-3. ⭐ Starred [OI-wiki/OI-wiki](https://github.com/OI-wiki/OI-wiki)<br>
-4. ⭐ Starred [oven-sh/bun](https://github.com/oven-sh/bun)<br>
-5. ⭐ Starred [robot-descriptions/awesome-robot-descriptions](https://github.com/robot-descriptions/awesome-robot-descriptions)<br>
+1. ⭐ Starred [OwO-Network/DeepLX](https://github.com/OwO-Network/DeepLX)<br>
+2. ⭐ Starred [antirez/smallchat](https://github.com/antirez/smallchat)<br>
+3. ⭐ Starred [AbdBarho/stable-diffusion-webui-docker](https://github.com/AbdBarho/stable-diffusion-webui-docker)<br>
+4. ⭐ Starred [OI-wiki/OI-wiki](https://github.com/OI-wiki/OI-wiki)<br>
+5. ⭐ Starred [oven-sh/bun](https://github.com/oven-sh/bun)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, November 2nd, 2023, 9:52:49 AM
+Last Updated: Thursday, November 2nd, 2023, 10:09:21 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
