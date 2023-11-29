@@ -69,14 +69,14 @@ I'm Hao Liu - AKA [Herman@liuhao][website]. I'm a Husband, Father, Developer, an
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [fanmingming/live](https://github.com/fanmingming/live)<br>
-2. ⭐ Starred [prisma/prisma](https://github.com/prisma/prisma)<br>
-3. ⭐ Starred [vercel/turbo](https://github.com/vercel/turbo)<br>
-4. ⭐ Starred [warengonzaga/css-text-portrait-builder](https://github.com/warengonzaga/css-text-portrait-builder)<br>
-5. ⭐ Starred [OwO-Network/DeepLX](https://github.com/OwO-Network/DeepLX)<br>
+1. ⭐ Starred [frappe/erpnext](https://github.com/frappe/erpnext)<br>
+2. ⭐ Starred [frappe/erpnext](https://github.com/frappe/erpnext)<br>
+3. ⭐ Starred [fanmingming/live](https://github.com/fanmingming/live)<br>
+4. ⭐ Starred [prisma/prisma](https://github.com/prisma/prisma)<br>
+5. ⭐ Starred [vercel/turbo](https://github.com/vercel/turbo)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, November 29th, 2023, 3:52:54 AM
+Last Updated: Wednesday, November 29th, 2023, 4:11:27 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
