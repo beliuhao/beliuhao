@@ -69,14 +69,14 @@ I'm Hao Liu - AKA [Herman@liuhao][website]. I'm a Husband, Father, Developer, an
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer)<br>
-2. ⭐ Starred [RealKai42/qwerty-learner](https://github.com/RealKai42/qwerty-learner)<br>
-3. ⭐ Starred [nlohmann/json](https://github.com/nlohmann/json)<br>
-4. ⭐ Starred [yhirose/cpp-httplib](https://github.com/yhirose/cpp-httplib)<br>
-5. ⭐ Starred [timeoff-management/timeoff-management-application](https://github.com/timeoff-management/timeoff-management-application)<br>
+1. ⭐ Starred [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101)<br>
+2. ⭐ Starred [krahets/hello-algo](https://github.com/krahets/hello-algo)<br>
+3. ⭐ Starred [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days)<br>
+4. ⭐ Starred [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer)<br>
+5. ⭐ Starred [RealKai42/qwerty-learner](https://github.com/RealKai42/qwerty-learner)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, December 13th, 2023, 9:42:47 AM
+Last Updated: Wednesday, December 13th, 2023, 9:52:58 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
