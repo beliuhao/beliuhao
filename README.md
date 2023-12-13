@@ -69,14 +69,14 @@ I'm Hao Liu - AKA [Herman@liuhao][website]. I'm a Husband, Father, Developer, an
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [RealKai42/qwerty-learner](https://github.com/RealKai42/qwerty-learner)<br>
-2. ⭐ Starred [nlohmann/json](https://github.com/nlohmann/json)<br>
-3. ⭐ Starred [yhirose/cpp-httplib](https://github.com/yhirose/cpp-httplib)<br>
-4. ⭐ Starred [timeoff-management/timeoff-management-application](https://github.com/timeoff-management/timeoff-management-application)<br>
-5. ⭐ Starred [frappe/erpnext](https://github.com/frappe/erpnext)<br>
+1. ⭐ Starred [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer)<br>
+2. ⭐ Starred [RealKai42/qwerty-learner](https://github.com/RealKai42/qwerty-learner)<br>
+3. ⭐ Starred [nlohmann/json](https://github.com/nlohmann/json)<br>
+4. ⭐ Starred [yhirose/cpp-httplib](https://github.com/yhirose/cpp-httplib)<br>
+5. ⭐ Starred [timeoff-management/timeoff-management-application](https://github.com/timeoff-management/timeoff-management-application)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, December 13th, 2023, 3:10:15 AM
+Last Updated: Wednesday, December 13th, 2023, 3:25:42 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
