@@ -69,14 +69,14 @@ I'm Hao Liu - AKA [Herman@liuhao][website]. I'm a Husband, Father, Developer, an
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101)<br>
-2. ⭐ Starred [krahets/hello-algo](https://github.com/krahets/hello-algo)<br>
-3. ⭐ Starred [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days)<br>
-4. ⭐ Starred [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer)<br>
-5. ⭐ Starred [RealKai42/qwerty-learner](https://github.com/RealKai42/qwerty-learner)<br>
+1. ⭐ Starred [framer/motion](https://github.com/framer/motion)<br>
+2. ⭐ Starred [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101)<br>
+3. ⭐ Starred [krahets/hello-algo](https://github.com/krahets/hello-algo)<br>
+4. ⭐ Starred [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days)<br>
+5. ⭐ Starred [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, December 19th, 2023, 3:52:54 AM
+Last Updated: Tuesday, December 19th, 2023, 4:11:25 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
