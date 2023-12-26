@@ -69,14 +69,14 @@ I'm Hao Liu - AKA [Herman@liuhao][website]. I'm a Husband, Father, Developer, an
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [facebook/docusaurus](https://github.com/facebook/docusaurus)<br>
-2. ⭐ Starred [Frooodle/Stirling-PDF](https://github.com/Frooodle/Stirling-PDF)<br>
-3. ⭐ Starred [framer/motion](https://github.com/framer/motion)<br>
-4. ⭐ Starred [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101)<br>
-5. ⭐ Starred [krahets/hello-algo](https://github.com/krahets/hello-algo)<br>
+1. ⭐ Starred [mdx-js/mdx](https://github.com/mdx-js/mdx)<br>
+2. ⭐ Starred [facebook/docusaurus](https://github.com/facebook/docusaurus)<br>
+3. ⭐ Starred [Frooodle/Stirling-PDF](https://github.com/Frooodle/Stirling-PDF)<br>
+4. ⭐ Starred [framer/motion](https://github.com/framer/motion)<br>
+5. ⭐ Starred [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, December 26th, 2023, 4:29:15 AM
+Last Updated: Tuesday, December 26th, 2023, 4:37:31 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
