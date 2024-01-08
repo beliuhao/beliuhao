@@ -69,14 +69,14 @@ I'm Hao Liu - AKA [Herman@liuhao][website]. I'm a Husband, Father, Developer, an
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [pdm-project/pdm](https://github.com/pdm-project/pdm)<br>
-2. ⭐ Starred [petercorke/robotics-toolbox-python](https://github.com/petercorke/robotics-toolbox-python)<br>
-3. ⭐ Starred [mdx-js/mdx](https://github.com/mdx-js/mdx)<br>
-4. ⭐ Starred [facebook/docusaurus](https://github.com/facebook/docusaurus)<br>
-5. ⭐ Starred [Frooodle/Stirling-PDF](https://github.com/Frooodle/Stirling-PDF)<br>
+1. ⭐ Starred [asciinema/asciinema](https://github.com/asciinema/asciinema)<br>
+2. ⭐ Starred [pdm-project/pdm](https://github.com/pdm-project/pdm)<br>
+3. ⭐ Starred [petercorke/robotics-toolbox-python](https://github.com/petercorke/robotics-toolbox-python)<br>
+4. ⭐ Starred [mdx-js/mdx](https://github.com/mdx-js/mdx)<br>
+5. ⭐ Starred [facebook/docusaurus](https://github.com/facebook/docusaurus)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, January 8th, 2024, 11:19:12 AM
+Last Updated: Monday, January 8th, 2024, 11:26:51 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
