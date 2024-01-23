@@ -69,14 +69,14 @@ I'm Hao Liu - AKA [Herman@liuhao][website]. I'm a Husband, Father, Developer, an
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [TechnitiumSoftware/DnsServer](https://github.com/TechnitiumSoftware/DnsServer)<br>
-2. ⭐ Starred [jliljebl/flowblade](https://github.com/jliljebl/flowblade)<br>
-3. ⭐ Starred [macdao/ocds-guide-to-setting-up-mac](https://github.com/macdao/ocds-guide-to-setting-up-mac)<br>
-4. ⭐ Starred [wagoodman/dive](https://github.com/wagoodman/dive)<br>
-5. ⭐ Starred [asciinema/asciinema](https://github.com/asciinema/asciinema)<br>
+1. ⭐ Starred [crate-ci/typos](https://github.com/crate-ci/typos)<br>
+2. ⭐ Starred [TechnitiumSoftware/DnsServer](https://github.com/TechnitiumSoftware/DnsServer)<br>
+3. ⭐ Starred [jliljebl/flowblade](https://github.com/jliljebl/flowblade)<br>
+4. ⭐ Starred [macdao/ocds-guide-to-setting-up-mac](https://github.com/macdao/ocds-guide-to-setting-up-mac)<br>
+5. ⭐ Starred [wagoodman/dive](https://github.com/wagoodman/dive)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, January 23rd, 2024, 9:22:42 AM
+Last Updated: Tuesday, January 23rd, 2024, 9:33:47 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
