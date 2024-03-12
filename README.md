@@ -69,14 +69,14 @@ I'm Hao Liu - AKA [Herman@liuhao][website]. I'm a Husband, Father, Developer, an
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver)<br>
-2. ⭐ Starred [anderspitman/SirTunnel](https://github.com/anderspitman/SirTunnel)<br>
-3. ⭐ Starred [dair-ai/ML-YouTube-Courses](https://github.com/dair-ai/ML-YouTube-Courses)<br>
-4. ⭐ Starred [joevess/IPTV](https://github.com/joevess/IPTV)<br>
-5. ⭐ Starred [deepseek-ai/DeepSeek-Coder](https://github.com/deepseek-ai/DeepSeek-Coder)<br>
+1. ⭐ Starred [ixartz/Next-js-Boilerplate](https://github.com/ixartz/Next-js-Boilerplate)<br>
+2. ⭐ Starred [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver)<br>
+3. ⭐ Starred [anderspitman/SirTunnel](https://github.com/anderspitman/SirTunnel)<br>
+4. ⭐ Starred [dair-ai/ML-YouTube-Courses](https://github.com/dair-ai/ML-YouTube-Courses)<br>
+5. ⭐ Starred [joevess/IPTV](https://github.com/joevess/IPTV)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, March 12th, 2024, 10:26:07 AM
+Last Updated: Tuesday, March 12th, 2024, 10:33:59 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
