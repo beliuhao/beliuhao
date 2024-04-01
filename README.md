@@ -69,14 +69,14 @@ I'm Hao Liu - AKA [Herman@liuhao][website]. I'm a Husband, Father, Developer, an
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [timlrx/tailwind-nextjs-starter-blog](https://github.com/timlrx/tailwind-nextjs-starter-blog)<br>
-2. ⭐ Starred [ixartz/Next-js-Boilerplate](https://github.com/ixartz/Next-js-Boilerplate)<br>
-3. ⭐ Starred [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver)<br>
-4. ⭐ Starred [anderspitman/SirTunnel](https://github.com/anderspitman/SirTunnel)<br>
-5. ⭐ Starred [dair-ai/ML-YouTube-Courses](https://github.com/dair-ai/ML-YouTube-Courses)<br>
+1. ⭐ Starred [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack)<br>
+2. ⭐ Starred [timlrx/tailwind-nextjs-starter-blog](https://github.com/timlrx/tailwind-nextjs-starter-blog)<br>
+3. ⭐ Starred [ixartz/Next-js-Boilerplate](https://github.com/ixartz/Next-js-Boilerplate)<br>
+4. ⭐ Starred [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver)<br>
+5. ⭐ Starred [anderspitman/SirTunnel](https://github.com/anderspitman/SirTunnel)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, April 1st, 2024, 2:40:38 AM
+Last Updated: Monday, April 1st, 2024, 2:52:58 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
