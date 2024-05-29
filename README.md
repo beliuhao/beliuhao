@@ -69,14 +69,14 @@ I'm Hao Liu - AKA [Herman@liuhao][website]. I'm a Husband, Father, Developer, an
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [cantino/mcfly](https://github.com/cantino/mcfly)<br>
-2. ⭐ Starred [threlte/threlte](https://github.com/threlte/threlte)<br>
-3. ⭐ Starred [PointCloudLibrary/pcl](https://github.com/PointCloudLibrary/pcl)<br>
-4. ⭐ Starred [lizongying/my-tv](https://github.com/lizongying/my-tv)<br>
-5. ⭐ Starred [feschber/lan-mouse](https://github.com/feschber/lan-mouse)<br>
+1. ⭐ Starred [Mikoto10032/DeepLearning](https://github.com/Mikoto10032/DeepLearning)<br>
+2. ⭐ Starred [cantino/mcfly](https://github.com/cantino/mcfly)<br>
+3. ⭐ Starred [threlte/threlte](https://github.com/threlte/threlte)<br>
+4. ⭐ Starred [PointCloudLibrary/pcl](https://github.com/PointCloudLibrary/pcl)<br>
+5. ⭐ Starred [lizongying/my-tv](https://github.com/lizongying/my-tv)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, May 29th, 2024, 3:36:34 AM
+Last Updated: Wednesday, May 29th, 2024, 3:44:19 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
