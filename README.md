@@ -69,14 +69,14 @@ I'm Hao Liu - AKA [Herman@liuhao][website]. I'm a Husband, Father, Developer, an
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [goharbor/harbor](https://github.com/goharbor/harbor)<br>
-2. ⭐ Starred [Mikoto10032/DeepLearning](https://github.com/Mikoto10032/DeepLearning)<br>
-3. ⭐ Starred [cantino/mcfly](https://github.com/cantino/mcfly)<br>
-4. ⭐ Starred [threlte/threlte](https://github.com/threlte/threlte)<br>
-5. ⭐ Starred [PointCloudLibrary/pcl](https://github.com/PointCloudLibrary/pcl)<br>
+1. ⭐ Starred [YOYZHANG/design-material](https://github.com/YOYZHANG/design-material)<br>
+2. ⭐ Starred [goharbor/harbor](https://github.com/goharbor/harbor)<br>
+3. ⭐ Starred [Mikoto10032/DeepLearning](https://github.com/Mikoto10032/DeepLearning)<br>
+4. ⭐ Starred [cantino/mcfly](https://github.com/cantino/mcfly)<br>
+5. ⭐ Starred [threlte/threlte](https://github.com/threlte/threlte)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, June 25th, 2024, 1:47:52 AM
+Last Updated: Tuesday, June 25th, 2024, 2:23:59 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
