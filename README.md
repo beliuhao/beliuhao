@@ -71,10 +71,9 @@ I'm Hao Liu - AKA [Herman@liuhao][website]. I'm a Husband, Father, Developer, an
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [nate-parrott/ball](https://github.com/nate-parrott/ball)<br>
 2. ⭐ Starred [YOYZHANG/design-material](https://github.com/YOYZHANG/design-material)<br>
-3. ⭐ Starred [goharbor/harbor](https://github.com/goharbor/harbor)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, September 13th, 2024, 12:53:43 AM
+Last Updated: Friday, September 13th, 2024, 2:09:09 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
