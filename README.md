@@ -70,10 +70,9 @@ I'm Hao Liu - AKA [Herman@liuhao][website]. I'm a Husband, Father, Developer, an
   
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [nate-parrott/ball](https://github.com/nate-parrott/ball)<br>
-2. ⭐ Starred [YOYZHANG/design-material](https://github.com/YOYZHANG/design-material)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, September 25th, 2024, 2:16:44 AM
+Last Updated: Wednesday, September 25th, 2024, 3:00:21 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
