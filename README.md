@@ -69,12 +69,14 @@ I'm Hao Liu - AKA [Herman@liuhao][website]. I'm a Husband, Father, Developer, an
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [dend/windows-dev-box](https://github.com/dend/windows-dev-box)<br>
-2. ⭐ Starred [dend/awesome-product-management](https://github.com/dend/awesome-product-management)<br>
-3. ⭐ Starred [lo-th/Oimo.js](https://github.com/lo-th/Oimo.js)<br>
+1. ⭐ Starred [yaolifeng0629/Awesome-independent-tools](https://github.com/yaolifeng0629/Awesome-independent-tools)<br>
+2. ⭐ Starred [blackcandy-org/blackcandy](https://github.com/blackcandy-org/blackcandy)<br>
+3. ⭐ Starred [dend/windows-dev-box](https://github.com/dend/windows-dev-box)<br>
+4. ⭐ Starred [dend/awesome-product-management](https://github.com/dend/awesome-product-management)<br>
+5. ⭐ Starred [lo-th/Oimo.js](https://github.com/lo-th/Oimo.js)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, January 3rd, 2025, 5:31:16 AM
+Last Updated: Friday, January 3rd, 2025, 5:42:46 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
