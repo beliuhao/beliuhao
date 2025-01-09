@@ -76,7 +76,7 @@ I'm Hao Liu - AKA [Herman@liuhao][website]. I'm a Husband, Father, Developer, an
 5. ⭐ Starred [dend/awesome-product-management](https://github.com/dend/awesome-product-management)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, January 9th, 2025, 11:22:51 AM
+Last Updated: Thursday, January 9th, 2025, 11:34:07 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
