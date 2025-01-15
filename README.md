@@ -69,14 +69,14 @@ I'm Hao Liu - AKA [Herman@liuhao][website]. I'm a Husband, Father, Developer, an
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [storybookjs/storybook](https://github.com/storybookjs/storybook)<br>
-2. ⭐ Starred [vitejs/awesome-vite](https://github.com/vitejs/awesome-vite)<br>
-3. ⭐ Starred [d2phap/ImageGlass](https://github.com/d2phap/ImageGlass)<br>
-4. ⭐ Starred [yaolifeng0629/Awesome-independent-tools](https://github.com/yaolifeng0629/Awesome-independent-tools)<br>
-5. ⭐ Starred [blackcandy-org/blackcandy](https://github.com/blackcandy-org/blackcandy)<br>
+1. ⭐ Starred [ikuaitu/vue-fabric-editor](https://github.com/ikuaitu/vue-fabric-editor)<br>
+2. ⭐ Starred [storybookjs/storybook](https://github.com/storybookjs/storybook)<br>
+3. ⭐ Starred [vitejs/awesome-vite](https://github.com/vitejs/awesome-vite)<br>
+4. ⭐ Starred [d2phap/ImageGlass](https://github.com/d2phap/ImageGlass)<br>
+5. ⭐ Starred [yaolifeng0629/Awesome-independent-tools](https://github.com/yaolifeng0629/Awesome-independent-tools)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, January 15th, 2025, 5:36:13 PM
+Last Updated: Wednesday, January 15th, 2025, 5:43:47 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
