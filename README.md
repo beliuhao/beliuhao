@@ -69,13 +69,14 @@ I'm Hao Liu - AKA [Herman@liuhao][website]. I'm a Husband, Father, Developer, an
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ikuaitu/vue-fabric-editor](https://github.com/ikuaitu/vue-fabric-editor)<br>
-2. ⭐ Starred [storybookjs/storybook](https://github.com/storybookjs/storybook)<br>
-3. ⭐ Starred [vitejs/awesome-vite](https://github.com/vitejs/awesome-vite)<br>
-4. ⭐ Starred [d2phap/ImageGlass](https://github.com/d2phap/ImageGlass)<br>
+1. ⭐ Starred [huggingface/smolagents](https://github.com/huggingface/smolagents)<br>
+2. ⭐ Starred [ikuaitu/vue-fabric-editor](https://github.com/ikuaitu/vue-fabric-editor)<br>
+3. ⭐ Starred [storybookjs/storybook](https://github.com/storybookjs/storybook)<br>
+4. ⭐ Starred [vitejs/awesome-vite](https://github.com/vitejs/awesome-vite)<br>
+5. ⭐ Starred [d2phap/ImageGlass](https://github.com/d2phap/ImageGlass)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, February 5th, 2025, 3:53:07 PM
+Last Updated: Wednesday, February 5th, 2025, 4:14:22 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
