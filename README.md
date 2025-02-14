@@ -71,10 +71,9 @@ I'm Hao Liu - AKA [Herman@liuhao][website]. I'm a Husband, Father, Developer, an
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [continuedev/continue](https://github.com/continuedev/continue)<br>
 2. ⭐ Starred [huggingface/smolagents](https://github.com/huggingface/smolagents)<br>
-3. ⭐ Starred [ikuaitu/vue-fabric-editor](https://github.com/ikuaitu/vue-fabric-editor)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, February 14th, 2025, 5:31:03 AM
+Last Updated: Friday, February 14th, 2025, 5:42:48 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
