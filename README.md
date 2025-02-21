@@ -69,13 +69,14 @@ I'm Hao Liu - AKA [Herman@liuhao][website]. I'm a Husband, Father, Developer, an
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [cline/cline](https://github.com/cline/cline)<br>
-2. ⭐ Starred [stackblitz-labs/bolt.diy](https://github.com/stackblitz-labs/bolt.diy)<br>
-3. ⭐ Starred [continuedev/continue](https://github.com/continuedev/continue)<br>
-4. ⭐ Starred [huggingface/smolagents](https://github.com/huggingface/smolagents)<br>
+1. ⭐ Starred [hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR)<br>
+2. ⭐ Starred [cline/cline](https://github.com/cline/cline)<br>
+3. ⭐ Starred [stackblitz-labs/bolt.diy](https://github.com/stackblitz-labs/bolt.diy)<br>
+4. ⭐ Starred [continuedev/continue](https://github.com/continuedev/continue)<br>
+5. ⭐ Starred [huggingface/smolagents](https://github.com/huggingface/smolagents)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, February 21st, 2025, 10:31:17 PM
+Last Updated: Friday, February 21st, 2025, 10:42:52 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
