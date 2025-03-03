@@ -69,14 +69,14 @@ I'm Hao Liu - AKA [Herman@liuhao][website]. I'm a Husband, Father, Developer, an
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [art049/odmantic](https://github.com/art049/odmantic)<br>
-2. ⭐ Starred [veops/oneterm](https://github.com/veops/oneterm)<br>
-3. ⭐ Starred [hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR)<br>
-4. ⭐ Starred [cline/cline](https://github.com/cline/cline)<br>
-5. ⭐ Starred [stackblitz-labs/bolt.diy](https://github.com/stackblitz-labs/bolt.diy)<br>
+1. ⭐ Starred [NirDiamant/GenAI_Agents](https://github.com/NirDiamant/GenAI_Agents)<br>
+2. ⭐ Starred [NirDiamant/RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques)<br>
+3. ⭐ Starred [art049/odmantic](https://github.com/art049/odmantic)<br>
+4. ⭐ Starred [veops/oneterm](https://github.com/veops/oneterm)<br>
+5. ⭐ Starred [hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, March 3rd, 2025, 12:23:45 PM
+Last Updated: Monday, March 3rd, 2025, 12:58:17 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
