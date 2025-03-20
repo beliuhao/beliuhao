@@ -69,14 +69,14 @@ I'm Hao Liu - AKA [Herman@liuhao][website]. I'm a Husband, Father, Developer, an
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [coder/code-server](https://github.com/coder/code-server)<br>
-2. ⭐ Starred [microsoft/markitdown](https://github.com/microsoft/markitdown)<br>
-3. ⭐ Starred [playcanvas/engine](https://github.com/playcanvas/engine)<br>
-4. ⭐ Starred [NirDiamant/GenAI_Agents](https://github.com/NirDiamant/GenAI_Agents)<br>
-5. ⭐ Starred [NirDiamant/RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques)<br>
+1. ⭐ Starred [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert)<br>
+2. ⭐ Starred [coder/code-server](https://github.com/coder/code-server)<br>
+3. ⭐ Starred [microsoft/markitdown](https://github.com/microsoft/markitdown)<br>
+4. ⭐ Starred [playcanvas/engine](https://github.com/playcanvas/engine)<br>
+5. ⭐ Starred [NirDiamant/GenAI_Agents](https://github.com/NirDiamant/GenAI_Agents)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, March 20th, 2025, 12:58:57 PM
+Last Updated: Thursday, March 20th, 2025, 1:27:35 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
