@@ -69,14 +69,14 @@ I'm Hao Liu - AKA [Herman@liuhao][website]. I'm a Husband, Father, Developer, an
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [th-ch/youtube-music](https://github.com/th-ch/youtube-music)<br>
-2. ⭐ Starred [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert)<br>
-3. ⭐ Starred [coder/code-server](https://github.com/coder/code-server)<br>
-4. ⭐ Starred [microsoft/markitdown](https://github.com/microsoft/markitdown)<br>
-5. ⭐ Starred [playcanvas/engine](https://github.com/playcanvas/engine)<br>
+1. ⭐ Starred [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)<br>
+2. ⭐ Starred [th-ch/youtube-music](https://github.com/th-ch/youtube-music)<br>
+3. ⭐ Starred [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert)<br>
+4. ⭐ Starred [coder/code-server](https://github.com/coder/code-server)<br>
+5. ⭐ Starred [microsoft/markitdown](https://github.com/microsoft/markitdown)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, April 1st, 2025, 9:52:52 AM
+Last Updated: Tuesday, April 1st, 2025, 10:14:06 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
