@@ -73,10 +73,9 @@ I'm Hao Liu - AKA [Herman@liuhao][website]. I'm a Husband, Father, Developer, an
 2. ⭐ Starred [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)<br>
 3. ⭐ Starred [th-ch/youtube-music](https://github.com/th-ch/youtube-music)<br>
 4. ⭐ Starred [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert)<br>
-5. ⭐ Starred [coder/code-server](https://github.com/coder/code-server)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, April 17th, 2025, 10:55:45 AM
+Last Updated: Thursday, April 17th, 2025, 11:11:23 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
