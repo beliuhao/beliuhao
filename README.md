@@ -71,11 +71,9 @@ I'm Hao Liu - AKA [Herman@liuhao][website]. I'm a Husband, Father, Developer, an
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [Worklenz/worklenz](https://github.com/Worklenz/worklenz)<br>
 2. ⭐ Starred [xiangechen/chili3d](https://github.com/xiangechen/chili3d)<br>
-3. ⭐ Starred [tsgrgo/windows-update-disabler](https://github.com/tsgrgo/windows-update-disabler)<br>
-4. ⭐ Starred [Aetherinox/pause-windows-updates](https://github.com/Aetherinox/pause-windows-updates)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, June 26th, 2025, 10:14:49 AM
+Last Updated: Thursday, June 26th, 2025, 10:40:56 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
