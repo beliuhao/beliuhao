@@ -71,11 +71,12 @@ I'm Hao Liu - AKA [Herman@liuhao][website]. I'm a Husband, Father, Developer, an
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [Lake1059/FFmpegFreeUI](https://github.com/Lake1059/FFmpegFreeUI)<br>
 2. ⭐ Starred [ZyperWave/ZyperWinOptimize](https://github.com/ZyperWave/ZyperWinOptimize)<br>
-3. ⭐ Starred [xM4ddy/OFGB](https://github.com/xM4ddy/OFGB)<br>
-4. ⭐ Starred [plutoprint/plutoprint](https://github.com/plutoprint/plutoprint)<br>
+3. ⭐ Starred [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit)<br>
+4. ⭐ Starred [alacritty/alacritty](https://github.com/alacritty/alacritty)<br>
+5. ⭐ Starred [aristocratos/btop](https://github.com/aristocratos/btop)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, September 25th, 2025, 7:34:15 PM
+Last Updated: Thursday, September 25th, 2025, 7:42:42 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
