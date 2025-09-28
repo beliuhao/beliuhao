@@ -72,10 +72,9 @@ I'm Hao Liu - AKA [Herman@liuhao][website]. I'm a Husband, Father, Developer, an
 1. ⭐ Starred [Lake1059/FFmpegFreeUI](https://github.com/Lake1059/FFmpegFreeUI)<br>
 2. ⭐ Starred [ZyperWave/ZyperWinOptimize](https://github.com/ZyperWave/ZyperWinOptimize)<br>
 3. ⭐ Starred [xM4ddy/OFGB](https://github.com/xM4ddy/OFGB)<br>
-4. ⭐ Starred [plutoprint/plutoprint](https://github.com/plutoprint/plutoprint)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, September 28th, 2025, 7:34:37 AM
+Last Updated: Sunday, September 28th, 2025, 7:42:46 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
