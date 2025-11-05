@@ -69,12 +69,13 @@ I'm Hao Liu - AKA [Herman@liuhao][website]. I'm a Husband, Father, Developer, an
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [MisterTea/EternalTerminal](https://github.com/MisterTea/EternalTerminal)<br>
-2. ⭐ Starred [chaitin/PandaWiki](https://github.com/chaitin/PandaWiki)<br>
-3. ⭐ Starred [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk)<br>
+1. ⭐ Starred [youhunwl/TVAPP](https://github.com/youhunwl/TVAPP)<br>
+2. ⭐ Starred [MisterTea/EternalTerminal](https://github.com/MisterTea/EternalTerminal)<br>
+3. ⭐ Starred [chaitin/PandaWiki](https://github.com/chaitin/PandaWiki)<br>
+4. ⭐ Starred [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, November 5th, 2025, 5:34:04 AM
+Last Updated: Wednesday, November 5th, 2025, 5:45:23 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
