@@ -69,14 +69,14 @@ I'm Hao Liu - AKA [Herman@liuhao][website]. I'm a Husband, Father, Developer, an
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [iDescriptor/iDescriptor](https://github.com/iDescriptor/iDescriptor)<br>
-2. ⭐ Starred [davialabs/davia](https://github.com/davialabs/davia)<br>
-3. ⭐ Starred [youhunwl/TVAPP](https://github.com/youhunwl/TVAPP)<br>
-4. ⭐ Starred [MisterTea/EternalTerminal](https://github.com/MisterTea/EternalTerminal)<br>
-5. ⭐ Starred [chaitin/PandaWiki](https://github.com/chaitin/PandaWiki)<br>
+1. ⭐ Starred [svgdotjs/svg.js](https://github.com/svgdotjs/svg.js)<br>
+2. ⭐ Starred [iDescriptor/iDescriptor](https://github.com/iDescriptor/iDescriptor)<br>
+3. ⭐ Starred [davialabs/davia](https://github.com/davialabs/davia)<br>
+4. ⭐ Starred [youhunwl/TVAPP](https://github.com/youhunwl/TVAPP)<br>
+5. ⭐ Starred [MisterTea/EternalTerminal](https://github.com/MisterTea/EternalTerminal)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, November 28th, 2025, 5:35:26 AM
+Last Updated: Friday, November 28th, 2025, 5:47:10 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
