@@ -69,12 +69,13 @@ I'm Hao Liu - AKA [Herman@liuhao][website]. I'm a Husband, Father, Developer, an
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [svgdotjs/svg.js](https://github.com/svgdotjs/svg.js)<br>
-2. ⭐ Starred [iDescriptor/iDescriptor](https://github.com/iDescriptor/iDescriptor)<br>
-3. ⭐ Starred [davialabs/davia](https://github.com/davialabs/davia)<br>
+1. ⭐ Starred [ciromattia/kcc](https://github.com/ciromattia/kcc)<br>
+2. ⭐ Starred [svgdotjs/svg.js](https://github.com/svgdotjs/svg.js)<br>
+3. ⭐ Starred [iDescriptor/iDescriptor](https://github.com/iDescriptor/iDescriptor)<br>
+4. ⭐ Starred [davialabs/davia](https://github.com/davialabs/davia)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, December 10th, 2025, 10:57:16 AM
+Last Updated: Wednesday, December 10th, 2025, 11:17:26 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
