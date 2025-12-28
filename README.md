@@ -71,10 +71,9 @@ I'm Hao Liu - AKA [Herman@liuhao][website]. I'm a Husband, Father, Developer, an
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [mifi/lossless-cut](https://github.com/mifi/lossless-cut)<br>
 2. ⭐ Starred [ciromattia/kcc](https://github.com/ciromattia/kcc)<br>
-3. ⭐ Starred [svgdotjs/svg.js](https://github.com/svgdotjs/svg.js)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, December 28th, 2025, 1:36:49 PM
+Last Updated: Sunday, December 28th, 2025, 1:49:04 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
