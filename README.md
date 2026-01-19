@@ -69,10 +69,12 @@ I'm Hao Liu - AKA [Herman@liuhao][website]. I'm a Husband, Father, Developer, an
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ThanhNguyxn/SheerID-Verification-Tool](https://github.com/ThanhNguyxn/SheerID-Verification-Tool)<br>
+1. ⭐ Starred [angristan/wireguard-install](https://github.com/angristan/wireguard-install)<br>
+2. ⭐ Starred [233boy/Xray](https://github.com/233boy/Xray)<br>
+3. ⭐ Starred [ThanhNguyxn/SheerID-Verification-Tool](https://github.com/ThanhNguyxn/SheerID-Verification-Tool)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, January 19th, 2026, 1:16:31 AM
+Last Updated: Monday, January 19th, 2026, 3:16:50 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
