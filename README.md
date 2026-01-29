@@ -69,13 +69,14 @@ I'm Hao Liu - AKA [Herman@liuhao][website]. I'm a Husband, Father, Developer, an
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Loyalsoldier/v2ray-rules-dat](https://github.com/Loyalsoldier/v2ray-rules-dat)<br>
-2. ⭐ Starred [angristan/wireguard-install](https://github.com/angristan/wireguard-install)<br>
-3. ⭐ Starred [233boy/Xray](https://github.com/233boy/Xray)<br>
-4. ⭐ Starred [ThanhNguyxn/SheerID-Verification-Tool](https://github.com/ThanhNguyxn/SheerID-Verification-Tool)<br>
+1. ⭐ Starred [juanfont/headscale](https://github.com/juanfont/headscale)<br>
+2. ⭐ Starred [tailscale/tailscale](https://github.com/tailscale/tailscale)<br>
+3. ⭐ Starred [Loyalsoldier/v2ray-rules-dat](https://github.com/Loyalsoldier/v2ray-rules-dat)<br>
+4. ⭐ Starred [angristan/wireguard-install](https://github.com/angristan/wireguard-install)<br>
+5. ⭐ Starred [233boy/Xray](https://github.com/233boy/Xray)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, January 29th, 2026, 5:59:26 AM
+Last Updated: Thursday, January 29th, 2026, 6:55:19 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
