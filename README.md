@@ -69,14 +69,14 @@ I'm Hao Liu - AKA [Herman@liuhao][website]. I'm a Husband, Father, Developer, an
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [johnnyfivepi/tailscale-on-raspberry-pi](https://github.com/johnnyfivepi/tailscale-on-raspberry-pi)<br>
-2. ⭐ Starred [juanfont/headscale](https://github.com/juanfont/headscale)<br>
-3. ⭐ Starred [tailscale/tailscale](https://github.com/tailscale/tailscale)<br>
-4. ⭐ Starred [Loyalsoldier/v2ray-rules-dat](https://github.com/Loyalsoldier/v2ray-rules-dat)<br>
-5. ⭐ Starred [angristan/wireguard-install](https://github.com/angristan/wireguard-install)<br>
+1. ⭐ Starred [AlistGo/alist](https://github.com/AlistGo/alist)<br>
+2. ⭐ Starred [johnnyfivepi/tailscale-on-raspberry-pi](https://github.com/johnnyfivepi/tailscale-on-raspberry-pi)<br>
+3. ⭐ Starred [juanfont/headscale](https://github.com/juanfont/headscale)<br>
+4. ⭐ Starred [tailscale/tailscale](https://github.com/tailscale/tailscale)<br>
+5. ⭐ Starred [Loyalsoldier/v2ray-rules-dat](https://github.com/Loyalsoldier/v2ray-rules-dat)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, February 3rd, 2026, 10:33:53 AM
+Last Updated: Tuesday, February 3rd, 2026, 11:08:40 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
