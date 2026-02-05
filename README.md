@@ -69,14 +69,14 @@ I'm Hao Liu - AKA [Herman@liuhao][website]. I'm a Husband, Father, Developer, an
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [teojs/clock-dashboard](https://github.com/teojs/clock-dashboard)<br>
-2. ⭐ Starred [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)<br>
-3. ⭐ Starred [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin)<br>
-4. ⭐ Starred [louislam/dockge](https://github.com/louislam/dockge)<br>
-5. ⭐ Starred [AlistGo/alist](https://github.com/AlistGo/alist)<br>
+1. ⭐ Starred [odoo/odoo](https://github.com/odoo/odoo)<br>
+2. ⭐ Starred [teojs/clock-dashboard](https://github.com/teojs/clock-dashboard)<br>
+3. ⭐ Starred [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)<br>
+4. ⭐ Starred [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin)<br>
+5. ⭐ Starred [louislam/dockge](https://github.com/louislam/dockge)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, February 5th, 2026, 7:35:07 AM
+Last Updated: Thursday, February 5th, 2026, 8:05:07 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
