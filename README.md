@@ -69,14 +69,14 @@ I'm Hao Liu - AKA [Herman@liuhao][website]. I'm a Husband, Father, Developer, an
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [2dust/v2rayNG](https://github.com/2dust/v2rayNG)<br>
-2. ⭐ Starred [yangchuansheng/derper](https://github.com/yangchuansheng/derper)<br>
-3. ⭐ Starred [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden)<br>
-4. ⭐ Starred [clearml/clearml](https://github.com/clearml/clearml)<br>
-5. ⭐ Starred [go-acme/lego](https://github.com/go-acme/lego)<br>
+1. ⭐ Starred [openai/codex](https://github.com/openai/codex)<br>
+2. ⭐ Starred [2dust/v2rayNG](https://github.com/2dust/v2rayNG)<br>
+3. ⭐ Starred [yangchuansheng/derper](https://github.com/yangchuansheng/derper)<br>
+4. ⭐ Starred [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden)<br>
+5. ⭐ Starred [clearml/clearml](https://github.com/clearml/clearml)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, March 11th, 2026, 2:21:32 AM
+Last Updated: Wednesday, March 11th, 2026, 4:19:17 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
