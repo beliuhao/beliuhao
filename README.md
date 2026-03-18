@@ -69,14 +69,14 @@ I'm Hao Liu - AKA [Herman@liuhao][website]. I'm a Husband, Father, Developer, an
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done)<br>
-2. ⭐ Starred [2dust/v2rayN](https://github.com/2dust/v2rayN)<br>
-3. ⭐ Starred [koala73/worldmonitor](https://github.com/koala73/worldmonitor)<br>
-4. ⭐ Starred [tldraw/tldraw](https://github.com/tldraw/tldraw)<br>
-5. ⭐ Starred [openai/codex](https://github.com/openai/codex)<br>
+1. ⭐ Starred [xyflow/xyflow](https://github.com/xyflow/xyflow)<br>
+2. ⭐ Starred [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done)<br>
+3. ⭐ Starred [2dust/v2rayN](https://github.com/2dust/v2rayN)<br>
+4. ⭐ Starred [koala73/worldmonitor](https://github.com/koala73/worldmonitor)<br>
+5. ⭐ Starred [tldraw/tldraw](https://github.com/tldraw/tldraw)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, March 18th, 2026, 9:02:38 AM
+Last Updated: Wednesday, March 18th, 2026, 10:06:45 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
