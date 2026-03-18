@@ -69,14 +69,14 @@ I'm Hao Liu - AKA [Herman@liuhao][website]. I'm a Husband, Father, Developer, an
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [LucienShui/PasteMe](https://github.com/LucienShui/PasteMe)<br>
-2. ⭐ Starred [xyflow/xyflow](https://github.com/xyflow/xyflow)<br>
-3. ⭐ Starred [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done)<br>
-4. ⭐ Starred [2dust/v2rayN](https://github.com/2dust/v2rayN)<br>
-5. ⭐ Starred [koala73/worldmonitor](https://github.com/koala73/worldmonitor)<br>
+1. ⭐ Starred [nginx-proxy/nginx-proxy](https://github.com/nginx-proxy/nginx-proxy)<br>
+2. ⭐ Starred [navidrome/navidrome](https://github.com/navidrome/navidrome)<br>
+3. ⭐ Starred [LucienShui/PasteMe](https://github.com/LucienShui/PasteMe)<br>
+4. ⭐ Starred [xyflow/xyflow](https://github.com/xyflow/xyflow)<br>
+5. ⭐ Starred [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, March 18th, 2026, 11:04:43 AM
+Last Updated: Wednesday, March 18th, 2026, 11:53:47 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
