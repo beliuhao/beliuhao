@@ -69,14 +69,14 @@ I'm Hao Liu - AKA [Herman@liuhao][website]. I'm a Husband, Father, Developer, an
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [nginx-proxy/nginx-proxy](https://github.com/nginx-proxy/nginx-proxy)<br>
-2. ⭐ Starred [navidrome/navidrome](https://github.com/navidrome/navidrome)<br>
-3. ⭐ Starred [LucienShui/PasteMe](https://github.com/LucienShui/PasteMe)<br>
-4. ⭐ Starred [xyflow/xyflow](https://github.com/xyflow/xyflow)<br>
-5. ⭐ Starred [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done)<br>
+1. ⭐ Starred [ankitects/anki](https://github.com/ankitects/anki)<br>
+2. ⭐ Starred [OpenBoard-org/OpenBoard](https://github.com/OpenBoard-org/OpenBoard)<br>
+3. ⭐ Starred [nginx-proxy/nginx-proxy](https://github.com/nginx-proxy/nginx-proxy)<br>
+4. ⭐ Starred [navidrome/navidrome](https://github.com/navidrome/navidrome)<br>
+5. ⭐ Starred [LucienShui/PasteMe](https://github.com/LucienShui/PasteMe)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, March 20th, 2026, 6:33:45 AM
+Last Updated: Friday, March 20th, 2026, 7:30:50 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
