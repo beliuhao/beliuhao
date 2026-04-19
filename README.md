@@ -71,11 +71,9 @@ I'm Hao Liu - AKA [Herman@liuhao][website]. I'm a Husband, Father, Developer, an
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [vercel-labs/opensrc](https://github.com/vercel-labs/opensrc)<br>
 2. ⭐ Starred [webadderall/Recordly](https://github.com/webadderall/Recordly)<br>
-3. ⭐ Starred [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)<br>
-4. ⭐ Starred [readest/readest](https://github.com/readest/readest)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, April 19th, 2026, 2:36:41 PM
+Last Updated: Sunday, April 19th, 2026, 3:21:13 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
