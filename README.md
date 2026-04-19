@@ -73,10 +73,9 @@ I'm Hao Liu - AKA [Herman@liuhao][website]. I'm a Husband, Father, Developer, an
 2. ⭐ Starred [webadderall/Recordly](https://github.com/webadderall/Recordly)<br>
 3. ⭐ Starred [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)<br>
 4. ⭐ Starred [readest/readest](https://github.com/readest/readest)<br>
-5. ⭐ Starred [ankitects/anki](https://github.com/ankitects/anki)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, April 19th, 2026, 12:53:15 PM
+Last Updated: Sunday, April 19th, 2026, 1:55:39 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
