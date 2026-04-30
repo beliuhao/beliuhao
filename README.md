@@ -69,9 +69,11 @@ I'm Hao Liu - AKA [Herman@liuhao][website]. I'm a Husband, Father, Developer, an
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
+1. ⭐ Starred [vercel-labs/opensrc](https://github.com/vercel-labs/opensrc)<br>
+2. ⭐ Starred [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, April 30th, 2026, 3:02:17 PM
+Last Updated: Thursday, April 30th, 2026, 4:42:08 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
