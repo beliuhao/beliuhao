@@ -70,10 +70,9 @@ I'm Hao Liu - AKA [Herman@liuhao][website]. I'm a Husband, Father, Developer, an
   
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [vercel-labs/opensrc](https://github.com/vercel-labs/opensrc)<br>
-2. ⭐ Starred [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, May 9th, 2026, 4:31:57 PM
+Last Updated: Saturday, May 9th, 2026, 5:31:59 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
