@@ -70,10 +70,9 @@ I'm Hao Liu - AKA [Herman@liuhao][website]. I'm a Husband, Father, Developer, an
   
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [lidangzzz/goal-driven](https://github.com/lidangzzz/goal-driven)<br>
-2. ⭐ Starred [vercel-labs/opensrc](https://github.com/vercel-labs/opensrc)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, May 13th, 2026, 5:23:55 PM
+Last Updated: Wednesday, May 13th, 2026, 7:13:59 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
