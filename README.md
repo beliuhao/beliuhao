@@ -70,10 +70,9 @@ I'm Hao Liu - AKA [Herman@liuhao][website]. I'm a Husband, Father, Developer, an
   
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager)<br>
-2. ⭐ Starred [lidangzzz/goal-driven](https://github.com/lidangzzz/goal-driven)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, June 12th, 2026, 12:12:57 PM
+Last Updated: Friday, June 12th, 2026, 3:41:15 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
