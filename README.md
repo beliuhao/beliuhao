@@ -69,11 +69,12 @@ I'm Hao Liu - AKA [Herman@liuhao][website]. I'm a Husband, Father, Developer, an
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent)<br>
-2. ⭐ Starred [ozmartian/vidcutter](https://github.com/ozmartian/vidcutter)<br>
+1. ⭐ Starred [anomalyco/opencode](https://github.com/anomalyco/opencode)<br>
+2. ⭐ Starred [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent)<br>
+3. ⭐ Starred [ozmartian/vidcutter](https://github.com/ozmartian/vidcutter)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, August 12th, 2026, 6:50:44 AM
+Last Updated: Wednesday, August 12th, 2026, 9:29:49 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
