@@ -72,10 +72,9 @@ I'm Hao Liu - AKA [Herman@liuhao][website]. I'm a Husband, Father, Developer, an
 1. ⭐ Starred [zerx-lab/FluxDown](https://github.com/zerx-lab/FluxDown)<br>
 2. ⭐ Starred [anomalyco/opencode](https://github.com/anomalyco/opencode)<br>
 3. ⭐ Starred [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent)<br>
-4. ⭐ Starred [ozmartian/vidcutter](https://github.com/ozmartian/vidcutter)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, September 8th, 2026, 1:44:45 PM
+Last Updated: Tuesday, September 8th, 2026, 5:32:49 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
