@@ -73,10 +73,9 @@ I'm Hao Liu - AKA [Herman@liuhao][website]. I'm a Husband, Father, Developer, an
 2. ⭐ Starred [valentderah/totk-pc-recomp](https://github.com/valentderah/totk-pc-recomp)<br>
 3. ⭐ Starred [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)<br>
 4. ⭐ Starred [Satsuoni/DeDRM_tools](https://github.com/Satsuoni/DeDRM_tools)<br>
-5. ⭐ Starred [morluto/rea](https://github.com/morluto/rea)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, November 9th, 2026, 10:44:46 AM
+Last Updated: Monday, November 9th, 2026, 9:06:09 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
