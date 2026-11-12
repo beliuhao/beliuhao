@@ -69,13 +69,14 @@ I'm Hao Liu - AKA [Herman@liuhao][website]. I'm a Husband, Father, Developer, an
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [wallechfox/offline-pdf-tools](https://github.com/wallechfox/offline-pdf-tools)<br>
-2. ⭐ Starred [valentderah/totk-pc-recomp](https://github.com/valentderah/totk-pc-recomp)<br>
-3. ⭐ Starred [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)<br>
-4. ⭐ Starred [Satsuoni/DeDRM_tools](https://github.com/Satsuoni/DeDRM_tools)<br>
+1. ⭐ Starred [eternity4719/HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter)<br>
+2. ⭐ Starred [wallechfox/offline-pdf-tools](https://github.com/wallechfox/offline-pdf-tools)<br>
+3. ⭐ Starred [valentderah/totk-pc-recomp](https://github.com/valentderah/totk-pc-recomp)<br>
+4. ⭐ Starred [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)<br>
+5. ⭐ Starred [Satsuoni/DeDRM_tools](https://github.com/Satsuoni/DeDRM_tools)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, November 12th, 2026, 12:31:51 AM
+Last Updated: Thursday, November 12th, 2026, 7:39:40 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
