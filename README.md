@@ -69,14 +69,14 @@ I'm Hao Liu - AKA [Herman@liuhao][website]. I'm a Husband, Father, Developer, an
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [zortos293/Lichii](https://github.com/zortos293/Lichii)<br>
-2. ⭐ Starred [eternity4719/HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter)<br>
-3. ⭐ Starred [wallechfox/offline-pdf-tools](https://github.com/wallechfox/offline-pdf-tools)<br>
-4. ⭐ Starred [valentderah/totk-pc-recomp](https://github.com/valentderah/totk-pc-recomp)<br>
-5. ⭐ Starred [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)<br>
+1. ⭐ Starred [Revivedx/SavageWindRecomp](https://github.com/Revivedx/SavageWindRecomp)<br>
+2. ⭐ Starred [zortos293/Lichii](https://github.com/zortos293/Lichii)<br>
+3. ⭐ Starred [eternity4719/HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter)<br>
+4. ⭐ Starred [wallechfox/offline-pdf-tools](https://github.com/wallechfox/offline-pdf-tools)<br>
+5. ⭐ Starred [valentderah/totk-pc-recomp](https://github.com/valentderah/totk-pc-recomp)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, November 17th, 2026, 11:42:42 AM
+Last Updated: Tuesday, November 17th, 2026, 8:02:19 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
